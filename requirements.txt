@@ -1,0 +1,9 @@
+streamlit==1.31.1
+folium==0.15.1
+geopandas==0.14.1
+pandas==2.2.0
+requests==2.31.0
+branca==0.7.0
+numpy==1.26.3
+streamlit-folium==0.15.1
+shapely==2.0.2 
