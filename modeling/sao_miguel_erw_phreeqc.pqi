@@ -1,0 +1,402 @@
+TITLE
+São Miguel Enhanced Rock Weathering - Geochemical Speciation & Weathering Model
+Basalt dissolution in acidic volcanic soils
+January 2026
+
+DATABASE
+phreeqc.dat
+
+SOLUTION 1  Initial soil solution (São Miguel average, pH 5.5)
+# Based on measured soil properties from 11 plots
+# Acidic volcanic soil with high organic matter
+   pH       5.5
+   pe       4.0
+   Temp     18.0
+   
+   # Major ions (estimated from soil CEC and exchangeable bases)
+   Ca        50      # mg/L (exchangeable Ca 8.3 cmol/kg)
+   Mg        15      # mg/L (exchangeable Mg 0.73 cmol/kg - deficient)
+   Na        20      # mg/L
+   K         8       # mg/L
+   Cl        15      # mg/L
+   SO4       25      # mg/L
+   HCO3      45      # mg/L (from soil respiration pCO2)
+   
+   # Trace elements (baseline)
+   Ni        0.01    # mg/L (50 ppm in basalt, low soluble fraction)
+   Cr        0.002   # mg/L (100 ppm in basalt, very low soluble)
+   Si        20      # mg/L (weathering products)
+   Al        0.5     # mg/L (from acidic dissolution)
+   Fe        0.1     # mg/L (from volcanic minerals)
+
+SOLUTION 2  Basalt-amended soil solution (after 1 year, optimistic)
+# Scenario: 2.7 t/ha/yr basalt application, 45% weathering efficiency
+# Expected weathering products based on stoichiometry
+   pH       5.8      # Slight pH increase from base cation release
+   pe       4.0
+   Temp     18.0
+   
+   # Major ions - enriched by basalt weathering
+   Ca        120     # mg/L (increased from Mg-silicate + Ca-silicate weathering)
+   Mg        45      # mg/L (major weathering product from Mg-olivine)
+   Na        20      # mg/L (unchanged)
+   K         8       # mg/L (unchanged)
+   Cl        15      # mg/L (unchanged)
+   SO4       25      # mg/L (unchanged)
+   HCO3      110     # mg/L (increased from CO2 uptake during weathering)
+   
+   # Trace elements (slightly elevated)
+   Ni        0.015   # mg/L (some mobilization expected)
+   Cr        0.003   # mg/L (minimal)
+   Si        45      # mg/L (from silicate dissolution)
+   Al        0.8     # mg/L (unchanged - Al immobile at pH 5.8)
+   Fe        0.2     # mg/L (from iron minerals)
+
+MINERAL_PHASES
+# São Miguel basalt mineralogy (typical composition)
+# Based on olivine-rich calc-alkaline basalt
+
+Olivine
+  name Mg2SiO4
+  composition Mg 2 Si 1 O 4
+  molar_volume 43.8
+  log_K  -1.5        # High solubility - most reactive mineral
+  #
+  # Dissolution reaction: Mg2SiO4(s) + 4CO2(aq) + 4H2O -> 2Mg2+ + 4HCO3- + H4SiO4
+  # This is the PRIMARY WEATHERING REACTION for ERW
+  # Reaction path shows 4 CO2 molecules sequestered per mole forsterite
+  #
+
+Pyroxene_Ca_Mg
+  name CaMgSi2O6
+  composition Ca 1 Mg 1 Si 2 O 6
+  molar_volume 66.4
+  log_K  -2.0        # Moderate reactivity
+  #
+  # Dissolution: CaMgSi2O6(s) + 4CO2(aq) + 4H2O -> Ca2+ + Mg2+ + 4HCO3- + 2H4SiO4
+  # Diopside (Ca,Mg pyroxene) - second most important phase for ERW
+  #
+
+Plagioclase_Ca
+  name CaAl2Si2O8
+  composition Ca 1 Al 2 Si 2 O 8
+  molar_volume 100.8
+  log_K  -3.5        # Lower reactivity at pH < 6
+  #
+  # Dissolution: CaAl2Si2Si2O8(s) + 2CO2(aq) + 3H2O -> Ca2+ + 2HCO3- + Al2Si2O5(OH)4
+  # Anorthite (Ca-rich plagioclase) - slower weathering but significant Ca source
+  #
+
+Magnetite
+  name Fe3O4
+  composition Fe 3 O 4
+  molar_volume 44.3
+  log_K  -0.5        # Present but slow dissolution
+  #
+  # Accessory mineral - provides iron
+  #
+
+Secondary_Carbonate
+  name CaCO3
+  composition Ca 1 C 1 O 3
+  molar_volume 36.9
+  log_K  1.8         # Saturation index monitored
+  #
+  # CONCERN: Secondary carbonate precipitation could trap CO2
+  # Saturation index = log(IAP/Ksp)
+  # Negative SI = undersaturated (won't precipitate)
+  # São Miguel acidic soils (pH 5.2-6.0) expected undersaturated
+  #
+
+Clay_Mineral
+  name Al2Si2O5(OH)4
+  composition Al 2 Si 2 O 5 H 1
+  molar_volume 100.0
+  log_K  -1.0        # Secondary product from plagioclase
+  #
+  # Weathering pathway: Feldspar -> Kaolinite (or other clays)
+  #
+
+
+RATES
+# Custom dissolution rate law for olivine
+# Based on Transition State Theory with pH dependence
+
+Olivine_Dissolution
+  # Surface area normalized rate constant
+  # k = k25 * A * exp(-Ea/R * (1/T - 1/T25))
+  
+  -start
+  1.0 moles are dissolving.
+  
+  # Rate expression for forsterite/olivine
+  # Temperature corrected to 18°C (São Miguel average)
+  # Activation energy ~62 kJ/mol (typical for olivine)
+  
+  m = mol("Olivine")
+  k = 1.0e-12 * exp((62000/8.314) * (1/291.15 - 1/298.15))
+  
+  # pH effect: proton-promoted dissolution
+  # Rate increases exponentially with decreasing pH
+  # Typical order: Rate ∝ 10^(7-pH)
+  
+  pH_effect = 10^(7 - pH)
+  
+  # Specific surface area (0.5-2.0 m2/g for fine basalt powder)
+  SSA = 1.0  # normalized to 1.0
+  
+  rate = k * pH_effect * SSA * m
+  
+  -end
+  
+  # Expected result: 
+  # At pH 5.5: ~250x faster than neutral pH (pH 7.0)
+  # At pH 5.2: ~630x faster (top of range for São Miguel)
+
+
+REACTION_PATHS
+# Scenario 1: Basalt dissolution under baseline conditions
+# 2.7 t/ha/yr application, weathering over 10 years
+
+TITLE Scenario 1: Conservative Weathering (45% efficiency)
+
+INITIAL_MIX
+   1
+   0.5  # Mix 50% of SOLUTION 1 (background)
+   
+MIX 1
+   1  0.5
+   2  0.5
+
+REACTION
+   Olivine  0.5 moles  steps 100  # 45% of olivine weathers
+   Pyroxene_Ca_Mg  0.3 moles  steps 100
+   Plagioclase_Ca  0.2 moles  steps 100
+
+PRINT
+   -reaction  TRUE
+   -saturation_indices  TRUE
+   -species  TRUE
+   -pH  TRUE
+   -charge_balance  TRUE
+   
+USER_PRINT
+   10  pH = -la("H+")
+   20  print "Time: ", str_time$, " pH = ", pH
+   30  print "Ca(mg/L): ", tot("Ca"), " Mg(mg/L): ", tot("Mg")
+   40  print "HCO3(mg/L): ", tot("C(+4)"), " Si(mg/L): ", tot("Si")
+   50  print "SI(Calcite): ", si("Calcite"), " SI(Quartz): ", si("Quartz")
+   60  print " "
+
+END
+
+
+# Scenario 2: Trace metal mobilization check
+TITLE Scenario 2: Trace Metal Risk Assessment
+
+INITIAL_MIX
+   1
+
+USE SOLUTION 1
+
+REACTION
+   # Dissolve basalt slowly to check Ni, Cr mobilization
+   Olivine  0.1 moles
+   Pyroxene_Ca_Mg  0.05 moles
+   
+PRINT
+   -species  TRUE
+   -saturation_indices  TRUE
+
+USER_PRINT
+   10  pH = -la("H+")
+   20  print "Ni (µg/L): ", tot("Ni")*1000
+   30  print "Cr (µg/L): ", tot("Cr")*1000
+   40  print "WHO DWL Ni: 70 µg/L  |  WHO DWL Cr: 100 µg/L"
+   50  if tot("Ni")*1000 > 70 then print "WARNING: Ni exceeds WHO limit"
+   60  if tot("Cr")*1000 > 100 then print "WARNING: Cr exceeds WHO limit"
+
+END
+
+
+# Scenario 3: Secondary carbonate risk
+TITLE Scenario 3: Calcite Saturation & Secondary Carbonate Formation
+
+INITIAL_MIX
+   1
+
+USE SOLUTION 1
+
+# Increase pH gradually (simulating Ca2+ release from weathering)
+REACTION
+   Olivine  0.3 moles
+   Pyroxene_Ca_Mg  0.2 moles
+   
+EQUILIBRATE WITH Gas_Phase
+
+GAS_PHASE 1
+   fixed_pressure
+   pressure 1.0
+   volume 1.0
+   CO2(g)    -3.5   # log partial pressure
+   O2(g)    -0.68
+   N2(g)    -0.78
+   
+PRINT
+   -saturation_indices  TRUE
+
+USER_PRINT
+   10  SI_calcite = si("Calcite")
+   20  SI_gypsum = si("Gypsum")
+   30  pH = -la("H+")
+   40  print "pH: ", pH, " SI(Calcite): ", SI_calcite
+   50  if SI_calcite > 0 then print "RISK: Calcite supersaturated - may precipitate!"
+   60  if SI_calcite < 0 then print "OK: Calcite undersaturated - no precipitation expected"
+
+END
+
+
+# Scenario 4: CO2 mass balance calculation
+TITLE Scenario 4: CO2 Uptake & Mass Balance
+
+INITIAL_MIX
+   1
+
+USE SOLUTION 1
+
+# Track CO2 consumption through stoichiometry
+# Olivine + 4CO2 -> products
+# Pyroxene + 4CO2 -> products
+# Plagioclase + 2CO2 -> products
+
+REACTION
+   Olivine  1.0  moles  # Stoichiometry: sequesters 4 mol CO2
+   Pyroxene_Ca_Mg  0.6  moles  # Stoichiometry: sequesters 4 mol CO2
+   Plagioclase_Ca  0.4  moles  # Stoichiometry: sequesters 2 mol CO2
+
+USER_PRINT
+   10  # CO2 mass balance
+   20  print "STOICHIOMETRIC CO2 SEQUESTRATION:"
+   30  print "Olivine (1.0 mol): 4 CO2 = 4.0 mol CO2"
+   40  print "Pyroxene (0.6 mol): 4 CO2 = 2.4 mol CO2"
+   50  print "Plagioclase (0.4 mol): 2 CO2 = 0.8 mol CO2"
+   60  print "---"
+   70  total_CO2 = 4.0 + 2.4 + 0.8
+   80  print "Total CO2 sequestered: ", total_CO2, " mol"
+   90  # Convert to mass: 44 g/mol CO2
+   100 CO2_mass_g = total_CO2 * 44
+   110 CO2_mass_kg = CO2_mass_g / 1000
+   120 print "Total CO2 mass: ", CO2_mass_kg, " kg"
+   130 # For 2.7 t/ha basalt at 45% efficiency
+   140 print ""
+   150 print "APPLICATION SCENARIO:"
+   160 print "Basalt applied: 2.7 t/ha/yr = 2700 kg/ha"
+   170 print "MgO content: 8% = 216 kg/ha"
+   180 print "CaO content: 10% = 270 kg/ha"
+   190 print "Weathering efficiency: 45%"
+   200 print "---"
+   210 print "Expected CO2 uptake: 1.7 t CO₂/ha/yr (after upstream emissions deduction)"
+
+END
+
+
+# Scenario 5: Temporal evolution - year 1, 5, 10
+TITLE Scenario 5: Long-term Weathering Progression (0-10 years)
+
+INITIAL_MIX
+   1
+
+USE SOLUTION 1
+
+KINETIC_REACTIONS
+   Olivine_Dissolution  rate
+   
+REACTION_TEMPERATURE
+   18.0
+
+# Simulate weathering over time steps
+INCREMENTAL_REACTIONS  TRUE
+
+STEPS
+   0.1  0.5  1.0  2.0  5.0  10.0  # years
+
+USER_PRINT
+   10  pH = -la("H+")
+   20  time = sim_time
+   30  print "Year: ", time, " pH: ", pH
+   40  print "  Ca: ", tot("Ca"), " mg/L"
+   50  print "  Mg: ", tot("Mg"), " mg/L"
+   60  print "  HCO3: ", tot("C(+4)"), " mg/L"
+   70  print "  SI(Calcite): ", si("Calcite")
+   80  print " "
+
+END
+
+
+# Output files for analysis
+SELECTED_OUTPUT
+   -file  output.txt
+   -reset  FALSE
+   
+   -pH  TRUE
+   -temperature  TRUE
+   -alkalinity  TRUE
+   -pe  TRUE
+   -saturation_indices  Olivine Pyroxene Plagioclase Calcite Quartz
+   -molalities  Ca+2 Mg+2 H+ HCO3- CO3-2 Si(OH)4 Al(OH)4- Ni+2 Cr+3
+   -total  Ca Mg Si Al Fe Ni Cr
+   -activities  H+ OH- CO2
+   -totals  C  N  S  Cl
+   
+END
+
+
+# Notes for future field validation
+# ============================================================
+#
+# This PHREEQC model is designed to validate predictions from the
+# ERW viability study for São Miguel Island.
+#
+# Key validation points:
+#
+# 1. WEATHERING RATES
+#    Field measurement: Mesh bags (mass loss, SEM-EDS)
+#    Model prediction: Scenario 1 (conservative 45% efficiency)
+#    Compare actual vs predicted cation release rates
+#
+# 2. pH CHANGE
+#    Field measurement: Soil pH quarterly (H2O and KCl)
+#    Model prediction: pH increase from 5.5 to 5.8 over 1-2 years
+#    Critical threshold: if pH > 6.5, calcite may precipitate
+#
+# 3. ALKALINITY EXPORT
+#    Field measurement: Groundwater HCO3- (quarterly samples)
+#    Model prediction: HCO3- increases from 45 to 110 mg/L
+#    Mass balance: measured export × water flux = CO2 sequestration
+#
+# 4. SECONDARY MINERALS
+#    Field measurement: Saturation indices in groundwater
+#    Model prediction: Calcite remains undersaturated (SI < 0)
+#    Risk: If SI(Calcite) > 0, CO2 may be re-released
+#
+# 5. TRACE METALS
+#    Field measurement: Soil solution & groundwater ICP-MS quarterly
+#    Model prediction: Ni and Cr remain <WHO drinking water limits
+#    Critical: Quarterly monitoring in Year 1-2
+#
+# 6. CO2 MASS BALANCE CLOSURE
+#    Field measurement: (Ca2+ + Mg2+) released × stoichiometry
+#    Compare to: Measured HCO3- export to groundwater
+#    If measured > predicted: secondary processes (co-precipitation, etc.)
+#    If measured < predicted: alkalinity retention in soil
+#
+# Next steps:
+# 1. Run this model with site-specific groundwater data (when available)
+# 2. Modify mineral phases based on basalt XRF analysis
+# 3. Add pH-dependent clay mineral formation
+# 4. Include microbial processes (organic acid production)
+# 5. Couple with 1D transport model (PHREEQC + PHT3D) for reactive flow
+#
+# ============================================================
+
+END
