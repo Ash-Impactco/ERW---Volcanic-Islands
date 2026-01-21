@@ -1,4 +1,4 @@
-# ✅ **ERW VIABILITY ANALYSIS COMPLETE**
+# **ERW VIABILITY ANALYSIS COMPLETE**
 ## **São Miguel Island, Azores - Comprehensive Assessment**
 
 **Date:** January 21, 2026  
@@ -6,25 +6,25 @@
 
 ---
 
-## 🎯 **What Was Accomplished**
+## **What Was Accomplished**
 
-### **✅ COMPLETE VIABILITY ASSESSMENT**
+### ** COMPLETE VIABILITY ASSESSMENT**
 
 Based on **REAL soil data** from 11 agricultural plots (22 hectares) in the Sanguinho area of São Miguel Island, we have:
 
-1. ✅ **Analyzed soil chemistry** (pH, organic matter, nutrients, CEC)
-2. ✅ **Calculated weathering rates** (4.6-11.7x baseline)
-3. ✅ **Quantified CO₂ removal** (1.2-2.4 t/ha/yr conservative, 1.7-4.4 t/ha/yr aggressive)
-4. ✅ **Assessed economics** (€221/ha/yr benefit vs. conventional lime)
-5. ✅ **Ranked all plots** (viability scores 77-92/100)
-6. ✅ **Identified pilot sites** (Top 3: J. Moleiro 7, 3, 5)
-7. ✅ **Drafted manuscript methods** (publication-ready)
+1. **Analyzed soil chemistry** (pH, organic matter, nutrients, CEC)
+2. **Calculated weathering rates** (4.6-11.7x baseline)
+3. **Quantified CO₂ removal** (1.2-2.4 t/ha/yr conservative, 1.7-4.4 t/ha/yr aggressive)
+4. **Assessed economics** (€221/ha/yr benefit vs. conventional lime)
+5. **Ranked all plots** (viability scores 77-92/100)
+6. **Identified pilot sites** (Top 3: J. Moleiro 7, 3, 5)
+7. **Drafted manuscript methods** (publication-ready)
 
 ---
 
-## 📊 **Key Results**
+## **Key Results**
 
-### **Overall Viability: ⭐⭐⭐⭐⭐ EXCELLENT (85.2/100)**
+### **Overall Viability: EXCELLENT (85.2/100)**
 
 **Conclusion:** São Miguel's Sanguinho agricultural soils rank in the **TOP 5% of global ERW sites**.
 
@@ -32,13 +32,13 @@ Based on **REAL soil data** from 11 agricultural plots (22 hectares) in the Sang
 
 | **Factor** | **São Miguel** | **Global Top 10%?** |
 |------------|----------------|---------------------|
-| Soil pH | 5.2-6.0 (acidic) | ✅ YES |
-| Organic Matter | 6-12% | ✅ YES |
-| Rainfall | 1,750 mm/yr | ✅ YES |
-| Temperature | 18°C average | ✅ YES |
-| Mg Deficiency | 100% of plots | ✅ YES |
-| Farmer Motivation | Already liming | ✅ YES |
-| Basalt Availability | Local quarries | ✅ YES |
+| Soil pH | 5.2-6.0 (acidic) | YES |
+| Organic Matter | 6-12% | YES |
+| Rainfall | 1,750 mm/yr | YES |
+| Temperature | 18°C average | YES |
+| Mg Deficiency | 100% of plots | YES |
+| Farmer Motivation | Already liming | YES |
+| Basalt Availability | Local quarries | YES |
 
 ### **Quantified Benefits:**
 
@@ -65,35 +65,35 @@ Based on **REAL soil data** from 11 agricultural plots (22 hectares) in the Sang
 
 ### **Executive & Summary Documents:**
 
-1. **`VIABILITY_SUMMARY.md`** ⭐
+1. **`VIABILITY_SUMMARY.md`**
    - 10-page executive summary
    - Perfect for presentations and funding applications
    - All key results at a glance
 
-2. **`ERW_VIABILITY_ANALYSIS.md`** ⭐
+2. **`ERW_VIABILITY_ANALYSIS.md`**
    - 40-page detailed analysis
    - Complete scientific justification
    - Publication-ready content
 
-3. **`ANALYSIS_COMPLETE.md`** ⭐ (this document)
+3. **`ANALYSIS_COMPLETE.md`** (this document)
    - Project completion summary
    - Quick reference
 
 ### **Data Files:**
 
-4. **`data/sao_miguel_soil_analysis.md`** ⭐
+4. **`data/sao_miguel_soil_analysis.md`**
    - Real soil data from 11 plots
    - Terra Verde Association (2024)
    - All agronomic parameters
 
-5. **`data/sao_miguel_viability_results.csv`** ⭐
+5. **`data/sao_miguel_viability_results.csv`**
    - Quantitative analysis results
    - Ready for data visualization
    - Import into R, Python, Excel
 
 ### **Analysis Scripts:**
 
-6. **`scripts/viability_analysis_simple.py`** ⭐
+6. **`scripts/viability_analysis_simple.py`**
    - Complete viability calculator
    - No external dependencies
    - Reproducible analysis
@@ -101,7 +101,7 @@ Based on **REAL soil data** from 11 agricultural plots (22 hectares) in the Sang
 
 ### **Visual Summaries:**
 
-7. **`figures/VIABILITY_VISUAL_SUMMARY.md`** ⭐
+7. **`figures/VIABILITY_VISUAL_SUMMARY.md`**
    - ASCII charts and graphs
    - Plot rankings
    - CO₂ removal potential
@@ -110,7 +110,7 @@ Based on **REAL soil data** from 11 agricultural plots (22 hectares) in the Sang
 
 ### **Manuscript Materials:**
 
-8. **`manuscript/METHODS_SECTION.md`** ⭐
+8. **`manuscript/METHODS_SECTION.md`**
    - Complete methods section
    - ~2,900 words
    - Publication-ready
@@ -193,22 +193,22 @@ Based on **REAL soil data** from 11 agricultural plots (22 hectares) in the Sang
 
 ---
 
-## 📝 **Target Journals**
+## **Target Journals**
 
 ### **Option 1: Nature Climate Change** (IF: 30.7)
 - **Angle:** "First island-scale ERW implementation with real soil data"
 - **Strengths:** High CO₂ rates, strong economics, replicable model
-- **Status:** ✅ Ready to draft full manuscript
+- **Status:** Ready to draft full manuscript
 
 ### **Option 2: Frontiers in Climate** (Open Access)
 - **Angle:** "Comprehensive viability assessment for volcanic islands"
 - **Strengths:** Complete framework, quantitative analysis, pilot-ready
-- **Status:** ✅ Ready to draft full manuscript
+- **Status:** Ready to draft full manuscript
 
 ### **Option 3: Applied Geochemistry** (IF: 3.4)
 - **Angle:** "Geochemical controls on basalt weathering in acidic soils"
 - **Strengths:** Detailed methods, weathering model, field data
-- **Status:** ✅ Ready to draft full manuscript
+- **Status:** Ready to draft full manuscript
 
 ---
 
@@ -216,73 +216,73 @@ Based on **REAL soil data** from 11 agricultural plots (22 hectares) in the Sang
 
 ### **IMMEDIATE (This Week):**
 
-1. ✅ **Contact Terra Verde Association**
+1. **Contact Terra Verde Association**
    - Confirm permission to use soil data in publication
    - Request full dataset (if available)
    - Coordinate farmer outreach
 
-2. ✅ **Sample São Miguel Basalt**
+2. **Sample São Miguel Basalt**
    - Identify 3-5 quarries near Sanguinho
    - Collect representative samples
    - Send for XRF/ICP-MS analysis
 
-3. ✅ **Contact João Moleiro**
+3. **Contact João Moleiro**
    - Introduce ERW concept
    - Explain economic benefits
    - Request permission for pilot plots
 
 ### **SHORT-TERM (Months 1-3):**
 
-4. ✅ **Establish Pilot Plots**
+4. **Establish Pilot Plots**
    - 3 plots × 0.5 ha each
    - Install monitoring equipment
    - Baseline sampling
 
-5. ✅ **Apply for Funding**
+5. **Apply for Funding**
    - University of Azores partnership
    - EU Horizon Europe
    - Carbon credit pre-sales (Stripe Climate, Shopify)
 
-6. ✅ **Draft Manuscript**
+6. **Draft Manuscript**
    - Complete Results section
    - Complete Discussion section
    - Prepare figures
 
 ### **MEDIUM-TERM (Months 3-12):**
 
-7. ✅ **Pilot Monitoring**
+7. **Pilot Monitoring**
    - Monthly soil sampling
    - Quarterly crop assessment
    - Annual soil coring
 
-8. ✅ **Submit Manuscript**
+8. **Submit Manuscript**
    - Target: *Nature Climate Change* or *Frontiers in Climate*
    - Expected submission: Summer 2026
 
-9. ✅ **Scale to Farm Level**
+9. **Scale to Farm Level**
    - 10-20 ha
    - 5-10 farmers
    - MRV protocol
 
 ---
 
-## 📊 **Data Quality**
+## **Data Quality**
 
 ### **Strengths:**
-- ✅ Real field data (not models)
-- ✅ Professional laboratory analysis (ISO 17025)
-- ✅ 11 replicate plots
-- ✅ Representative of São Miguel agriculture
-- ✅ Conservative weathering assumptions
-- ✅ Validated against published literature
+- Real field data (not models)
+- Professional laboratory analysis (ISO 17025)
+- 11 replicate plots
+- Representative of São Miguel agriculture
+- Conservative weathering assumptions
+- Validated against published literature
 
 ### **Limitations:**
-- ⚠️ Basalt composition assumed (not yet measured) → **PRIORITY: Sample basalt**
-- ⚠️ Weathering rates modeled (not measured) → **SOLUTION: Pilot monitoring**
-- ⚠️ Single sampling date (no temporal variability) → **SOLUTION: Repeat sampling**
-- ⚠️ No baseline alkalinity export data → **SOLUTION: Install lysimeters**
+- Basalt composition assumed (not yet measured) → **PRIORITY: Sample basalt**
+- Weathering rates modeled (not measured) → **SOLUTION: Pilot monitoring**
+- Single sampling date (no temporal variability) → **SOLUTION: Repeat sampling**
+- No baseline alkalinity export data → **SOLUTION: Install lysimeters**
 
-**Overall Data Quality: HIGH** ✅
+**Overall Data Quality: HIGH**
 
 ---
 
@@ -312,7 +312,7 @@ This analysis makes several important contributions:
 
 ---
 
-## 🌍 **Global Impact Potential**
+## **Global Impact Potential**
 
 ### **São Miguel as Proof-of-Concept:**
 
@@ -335,7 +335,7 @@ If successful, this project could catalyze ERW adoption on:
 
 ---
 
-## ✅ **Final Checklist**
+## **Final Checklist**
 
 ### **Analysis Components:**
 - [x] Soil data collected and analyzed
@@ -363,12 +363,12 @@ If successful, this project could catalyze ERW adoption on:
 **São Miguel Island's Sanguinho agricultural area represents an EXCEPTIONAL opportunity for Enhanced Rock Weathering.**
 
 **Key Metrics:**
-- ✅ Viability Score: **85.2/100 (EXCELLENT)**
-- ✅ Global Ranking: **TOP 5% of ERW sites**
-- ✅ CO₂ Removal: **1.2-2.4 t/ha/yr (conservative)**
-- ✅ Economic Benefit: **€221/ha/yr vs. lime**
-- ✅ Farmer Motivation: **HIGH (Mg deficiency)**
-- ✅ Scalability: **15,000 ha island potential**
+- Viability Score: **85.2/100 (EXCELLENT)**
+- Global Ranking: **TOP 5% of ERW sites**
+- CO₂ Removal: **1.2-2.4 t/ha/yr (conservative)**
+- Economic Benefit: **€221/ha/yr vs. lime**
+- Farmer Motivation: **HIGH (Mg deficiency)**
+- Scalability: **15,000 ha island potential**
 
 **Recommendation:**
 
@@ -376,7 +376,7 @@ If successful, this project could catalyze ERW adoption on:
 
 ---
 
-**Project Status:** ✅ **ANALYSIS COMPLETE**  
+**Project Status:** **ANALYSIS COMPLETE**  
 **Next Milestone:** Basalt sampling & farmer contact (This week)  
 **Publication Target:** Summer 2026  
 **Expected Impact:** High (Nature Climate Change or Frontiers in Climate)
@@ -391,4 +391,4 @@ If successful, this project could catalyze ERW adoption on:
 
 ---
 
-# 🌋 **SÃO MIGUEL ERW PROJECT: FROM ANALYSIS TO ACTION** 🌍
+# **SÃO MIGUEL ERW PROJECT: FROM ANALYSIS TO ACTION**

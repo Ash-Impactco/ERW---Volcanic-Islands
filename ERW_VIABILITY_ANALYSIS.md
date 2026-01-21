@@ -1,4 +1,4 @@
-# 🌋 **Enhanced Rock Weathering (ERW) Viability Analysis**
+# **Enhanced Rock Weathering (ERW) Viability Analysis**
 ## **São Miguel Island, Azores - Sanguinho Agricultural Area**
 
 ---
@@ -7,14 +7,14 @@
 
 **Analysis Date:** January 2026  
 **Data Source:** Terra Verde Association Soil Analysis (11 plots, Sanguinho area, 2024)  
-**Overall Viability Rating:** ⭐⭐⭐⭐⭐ **EXCELLENT (92/100)**
+**Overall Viability Rating:** **EXCELLENT (92/100)**
 
 ### **Key Findings:**
-1. ✅ **Acidic soils (pH 5.2-6.0)** = IDEAL for basalt weathering
-2. ✅ **High organic matter (6-12%)** = Enhanced weathering rates
-3. ✅ **Low Mg/Ca ratios (0.08-0.15)** = Farmers NEED magnesian basalt
-4. ✅ **High rainfall (1,500+ mm/yr)** = Optimal dissolution kinetics
-5. ✅ **Farmers already lime** = PROVEN economic pathway
+1. **Acidic soils (pH 5.2-6.0)** = IDEAL for basalt weathering
+2. **High organic matter (6-12%)** = Enhanced weathering rates
+3. **Low Mg/Ca ratios (0.08-0.15)** = Farmers NEED magnesian basalt
+4. **High rainfall (1,500+ mm/yr)** = Optimal dissolution kinetics
+5. **Farmers already lime** = PROVEN economic pathway
 
 **Bottom Line:** These soils represent **near-optimal conditions** for ERW implementation.
 
@@ -198,17 +198,17 @@ Each plot scored 0-100 based on:
 
 | **Plot ID** | **pH Score** | **OM Score** | **Mg Score** | **CEC Score** | **Climate Score** | **TOTAL** | **Rating** |
 |-------------|-------------|-------------|-------------|--------------|------------------|----------|-----------|
-| J. Moleiro 1 | 28 | 18 | 12 | 9 | 24 | **91** | ⭐⭐⭐⭐⭐ |
-| J. Moleiro 2 | 27 | 16 | 10 | 10 | 24 | **87** | ⭐⭐⭐⭐⭐ |
-| J. Moleiro 3 | 29 | 20 | 11 | 9 | 24 | **93** | ⭐⭐⭐⭐⭐ |
-| J. Moleiro 4 | 29 | 18 | 9 | 10 | 24 | **90** | ⭐⭐⭐⭐⭐ |
-| J. Moleiro 5 | 30 | 15 | 15 | 8 | 24 | **92** | ⭐⭐⭐⭐⭐ |
-| J. Moleiro 6 | 30 | 13 | 12 | 8 | 24 | **87** | ⭐⭐⭐⭐⭐ |
-| J. Moleiro 7 | 29 | 20 | 11 | 10 | 24 | **94** | ⭐⭐⭐⭐⭐ |
-| J. Moleiro 8 | 28 | 16 | 10 | 9 | 24 | **87** | ⭐⭐⭐⭐⭐ |
-| J. Moleiro 9 | 25 | 15 | 9 | 10 | 24 | **83** | ⭐⭐⭐⭐ |
-| J. Moleiro 10 | 27 | 16 | 11 | 9 | 24 | **87** | ⭐⭐⭐⭐⭐ |
-| J. Moleiro 11 | 24 | 11 | 8 | 10 | 24 | **77** | ⭐⭐⭐⭐ |
+| J. Moleiro 1 | 28 | 18 | 12 | 9 | 24 | **91** | |
+| J. Moleiro 2 | 27 | 16 | 10 | 10 | 24 | **87** | |
+| J. Moleiro 3 | 29 | 20 | 11 | 9 | 24 | **93** | |
+| J. Moleiro 4 | 29 | 18 | 9 | 10 | 24 | **90** | |
+| J. Moleiro 5 | 30 | 15 | 15 | 8 | 24 | **92** | |
+| J. Moleiro 6 | 30 | 13 | 12 | 8 | 24 | **87** | |
+| J. Moleiro 7 | 29 | 20 | 11 | 10 | 24 | **94** | |
+| J. Moleiro 8 | 28 | 16 | 10 | 9 | 24 | **87** | |
+| J. Moleiro 9 | 25 | 15 | 9 | 10 | 24 | **83** | |
+| J. Moleiro 10 | 27 | 16 | 11 | 9 | 24 | **87** | |
+| J. Moleiro 11 | 24 | 11 | 8 | 10 | 24 | **77** | |
 
 **Average Score: 88/100 (EXCELLENT)**
 
@@ -329,11 +329,11 @@ Each plot scored 0-100 based on:
 
 ### **6.2 Environmental Co-Benefits**
 
-✅ **Reduced lime imports** → Lower shipping emissions  
-✅ **Improved soil structure** → Reduced erosion  
-✅ **Micronutrient addition** → Healthier crops  
-✅ **Slower nutrient release** → Less runoff pollution  
-✅ **Enhanced water retention** → Drought resilience  
+ **Reduced lime imports** → Lower shipping emissions  
+ **Improved soil structure** → Reduced erosion  
+ **Micronutrient addition** → Healthier crops  
+ **Slower nutrient release** → Less runoff pollution  
+ **Enhanced water retention** → Drought resilience  
 
 ---
 
@@ -342,13 +342,13 @@ Each plot scored 0-100 based on:
 ### **Overall Assessment: EXCEPTIONAL CANDIDATE FOR ERW**
 
 **Strengths:**
-1. ✅ Acidic soils (pH 5.2-6.0) provide 2-3x weathering enhancement
-2. ✅ High organic matter (6-12%) provides biological weathering boost
-3. ✅ High rainfall (1,750 mm/yr) ensures rapid dissolution
-4. ✅ Severe Mg deficiency creates economic driver for adoption
-5. ✅ Farmers already apply lime → proven behavioral pathway
-6. ✅ Local basalt availability → low transport costs
-7. ✅ No competing land uses → agricultural integration
+1. Acidic soils (pH 5.2-6.0) provide 2-3x weathering enhancement
+2. High organic matter (6-12%) provides biological weathering boost
+3. High rainfall (1,750 mm/yr) ensures rapid dissolution
+4. Severe Mg deficiency creates economic driver for adoption
+5. Farmers already apply lime → proven behavioral pathway
+6. Local basalt availability → low transport costs
+7. No competing land uses → agricultural integration
 
 **Comparison to Literature:**
 
@@ -409,28 +409,28 @@ Each plot scored 0-100 based on:
 ## **10. Next Steps (Priority Order)**
 
 ### **Immediate (This Month):**
-1. ✅ Complete São Miguel basalt sampling (3-5 quarries)
-2. ✅ XRF analysis of basalt samples
-3. ✅ Contact João Moleiro for pilot plot permission
-4. ✅ Apply for University of Azores research partnership
+1. Complete São Miguel basalt sampling (3-5 quarries)
+2. XRF analysis of basalt samples
+3. Contact João Moleiro for pilot plot permission
+4. Apply for University of Azores research partnership
 
 ### **Short-term (Months 2-6):**
-1. ✅ Establish 3 pilot plots (0.5 ha each)
-2. ✅ Install monitoring equipment
-3. ✅ Apply basalt at 2,700 kg/ha (Plot 1), 10 t/ha (Plot 2), 50 t/ha (Plot 3)
-4. ✅ Begin monthly sampling program
+1. Establish 3 pilot plots (0.5 ha each)
+2. Install monitoring equipment
+3. Apply basalt at 2,700 kg/ha (Plot 1), 10 t/ha (Plot 2), 50 t/ha (Plot 3)
+4. Begin monthly sampling program
 
 ### **Medium-term (Months 6-24):**
-1. ✅ Collect weathering rate data
-2. ✅ Measure crop response
-3. ✅ Economic analysis of farmer costs/benefits
-4. ✅ Draft manuscript for peer review
+1. Collect weathering rate data
+2. Measure crop response
+3. Economic analysis of farmer costs/benefits
+4. Draft manuscript for peer review
 
 ### **Long-term (Years 2-5):**
-1. ✅ Scale to 10-50 farms (100-500 ha)
-2. ✅ Establish MRV protocol for carbon credits
-3. ✅ Engage carbon market buyers
-4. ✅ Policy advocacy for ERW support
+1. Scale to 10-50 farms (100-500 ha)
+2. Establish MRV protocol for carbon credits
+3. Engage carbon market buyers
+4. Policy advocacy for ERW support
 
 ---
 

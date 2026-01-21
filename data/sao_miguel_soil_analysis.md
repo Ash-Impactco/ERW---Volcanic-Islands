@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 **KEY ERW FINDING**
+## **KEY ERW FINDING**
 
 **All plots show acidic soils (pH 5.2-6.5) requiring 3,000-5,000 kg/ha magnesian lime annually.**
 
@@ -15,22 +15,22 @@
 
 ---
 
-## 📊 **SOIL ANALYSIS SUMMARY**
+## **SOIL ANALYSIS SUMMARY**
 
 ### **Banana & Citrus Plots (2 plots)**
 
 | Parameter | Plot 1 (3BUK/LRLF) | Plot 2 (B6CPRV05) | Ideal Range | ERW Benefit |
 |-----------|-------------------|-------------------|-------------|-------------|
-| **pH (H₂O)** | 6.0 | 6.0 | 6.0-7.0 | ✅ Basalt raises pH |
-| **Organic Matter (%)** | 4.03 | 4.10 | 2-4 | ✅ Basalt adds minerals |
-| **CEC (cmol+/kg)** | 18.00 | 24.23 | >10 | ✅ Basalt increases CEC |
-| **Base Saturation (%)** | 54.28 | 35.27 | 60-80 | ✅ Basalt increases bases |
+| **pH (H₂O)** | 6.0 | 6.0 | 6.0-7.0 | Basalt raises pH |
+| **Organic Matter (%)** | 4.03 | 4.10 | 2-4 | Basalt adds minerals |
+| **CEC (cmol+/kg)** | 18.00 | 24.23 | >10 | Basalt increases CEC |
+| **Base Saturation (%)** | 54.28 | 35.27 | 60-80 | Basalt increases bases |
 | **Extractable P (mg/kg)** | 332 | 403 | 50-100 | → Already high |
 | **Extractable K (mg/kg)** | 902 | 499 | 50-100 | → Already adequate |
-| **Exchangeable Ca (cmol+/kg)** | 5.76 | 5.51 | 5-10 | ✅ Basalt supplies Ca |
-| **Exchangeable Mg (cmol+/kg)** | 1.59 | 1.63 | 1-2.5 | ✅ Basalt supplies Mg |
-| **Ca/Mg Ratio** | 5.9 | 4.2 | 2.6-4.0 | ⚠️ Too high (needs Mg) |
-| **Lime Requirement** | 3,000 kg/ha | 4,000 kg/ha | -- | **🎯 Basalt target** |
+| **Exchangeable Ca (cmol+/kg)** | 5.76 | 5.51 | 5-10 | Basalt supplies Ca |
+| **Exchangeable Mg (cmol+/kg)** | 1.59 | 1.63 | 1-2.5 | Basalt supplies Mg |
+| **Ca/Mg Ratio** | 5.9 | 4.2 | 2.6-4.0 | Too high (needs Mg) |
+| **Lime Requirement** | 3,000 kg/ha | 4,000 kg/ha | -- | ** Basalt target** |
 
 **Current Practice:** Applying magnesian lime (CaMg(CO₃)₂)  
 **ERW Alternative:** Apply volcanic basalt (provides Ca, Mg + CO₂ removal)
@@ -64,7 +64,7 @@
 
 ---
 
-## 🌾 **BASALT APPLICATION SCENARIOS**
+## **BASALT APPLICATION SCENARIOS**
 
 ### **Scenario 1: Direct Lime Replacement**
 
@@ -95,7 +95,7 @@ Apply basalt at **50 tonnes/ha** (standard ERW rate) on pastures
 
 ---
 
-## 💰 **ECONOMIC ANALYSIS**
+## **ECONOMIC ANALYSIS**
 
 ### **Current Cost: Imported Magnesian Lime**
 
@@ -118,7 +118,7 @@ Apply basalt at **50 tonnes/ha** (standard ERW rate) on pastures
 
 ---
 
-## 🔬 **SOIL pH CORRECTION POTENTIAL**
+## **SOIL pH CORRECTION POTENTIAL**
 
 ### **How Basalt Raises pH:**
 
@@ -135,13 +135,13 @@ CaMg(CO₃)₂ + 2H⁺ → Ca²⁺ + Mg²⁺ + 2CO₂ + 2H₂O
 (Ca,Mg)SiO₃ + 2CO₂ + 3H₂O → Ca²⁺ + Mg²⁺ + 2HCO₃⁻ + H₄SiO₄
 ```
 - Slower reaction (months to years)
-- **CO₂ consumed from atmosphere** ✅
+- **CO₂ consumed from atmosphere**
 - Longer-lasting effect (3-5 years)
 - Additional silica for plants
 
 ---
 
-## 📈 **SÃO MIGUEL ISLAND-SCALE POTENTIAL**
+## **SÃO MIGUEL ISLAND-SCALE POTENTIAL**
 
 ### **Agricultural Land Use:**
 - **Total agricultural land:** 250 km² (25,000 ha)
@@ -167,39 +167,39 @@ CaMg(CO₃)₂ + 2H⁺ → Ca²⁺ + Mg²⁺ + 2CO₂ + 2H₂O
 
 ---
 
-## ✅ **CO-BENEFITS FOR SÃO MIGUEL FARMS**
+## **CO-BENEFITS FOR SÃO MIGUEL FARMS**
 
 ### **1. Soil pH Correction**
-- ✅ Raises pH from 5.2-6.0 to 6.0-6.5 (optimal)
-- ✅ Reduces aluminum toxicity
-- ✅ Improves nutrient availability
+- Raises pH from 5.2-6.0 to 6.0-6.5 (optimal)
+- Reduces aluminum toxicity
+- Improves nutrient availability
 
 ### **2. Nutrient Supply**
-- ✅ **Calcium:** 9-10% CaO in basalt
-- ✅ **Magnesium:** 7-8% MgO in basalt (São Miguel basalts)
-- ✅ **Silica:** Beneficial for pasture grasses
-- ✅ **Micronutrients:** Fe, Mn, Zn (already high in volcanic soils)
+- **Calcium:** 9-10% CaO in basalt
+- **Magnesium:** 7-8% MgO in basalt (São Miguel basalts)
+- **Silica:** Beneficial for pasture grasses
+- **Micronutrients:** Fe, Mn, Zn (already high in volcanic soils)
 
 ### **3. Improved Soil Structure**
-- ✅ Increases CEC (cation exchange capacity)
-- ✅ Better water retention
-- ✅ Enhanced microbial activity
+- Increases CEC (cation exchange capacity)
+- Better water retention
+- Enhanced microbial activity
 
 ### **4. Economic Benefits**
-- ✅ Replace expensive imported lime
-- ✅ Local circular economy (quarry → farm)
-- ✅ Carbon credit revenue
-- ✅ 5-10 local jobs (quarry, processing, distribution)
+- Replace expensive imported lime
+- Local circular economy (quarry → farm)
+- Carbon credit revenue
+- 5-10 local jobs (quarry, processing, distribution)
 
 ### **5. Environmental Benefits**
-- ✅ **Carbon removal:** 10,000-60,000 tCO₂/year
-- ✅ Reduced shipping emissions (no mainland imports)
-- ✅ Sustainable land management
-- ✅ Contributes to Azores carbon neutrality goals
+- **Carbon removal:** 10,000-60,000 tCO₂/year
+- Reduced shipping emissions (no mainland imports)
+- Sustainable land management
+- Contributes to Azores carbon neutrality goals
 
 ---
 
-## 🎯 **PILOT PROJECT RECOMMENDATION**
+## **PILOT PROJECT RECOMMENDATION**
 
 ### **Site Selection:**
 **Sanguinho Pasture Plots 4 & 5** (highest lime requirements)
@@ -240,13 +240,13 @@ CaMg(CO₃)₂ + 2H⁺ → Ca²⁺ + Mg²⁺ + 2CO₂ + 2H₂O
 
 ---
 
-## 📊 **DATA GAPS TO FILL**
+## **DATA GAPS TO FILL**
 
-### **Already Have:** ✅
-- ✅ Detailed soil chemistry (pH, CEC, nutrients)
-- ✅ Current lime requirements
-- ✅ Farm locations and crop types
-- ✅ Farmer contact (through Terra Verde)
+### **Already Have:**
+- Detailed soil chemistry (pH, CEC, nutrients)
+- Current lime requirements
+- Farm locations and crop types
+- Farmer contact (through Terra Verde)
 
 ### **Still Need:** ⏳
 1. **Basalt geochemistry:** Collect samples from local São Miguel quarries
@@ -257,7 +257,7 @@ CaMg(CO₃)₂ + 2H⁺ → Ca²⁺ + Mg²⁺ + 2CO₂ + 2H₂O
 
 ---
 
-## 🎯 **MANUSCRIPT INTEGRATION**
+## **MANUSCRIPT INTEGRATION**
 
 This soil data is **PERFECT** for your São Miguel ERW manuscript:
 
@@ -274,22 +274,22 @@ This soil data is **PERFECT** for your São Miguel ERW manuscript:
 
 ## 🚀 **IMMEDIATE NEXT STEPS**
 
-1. ✅ **Contact Terra Verde Association**
+1. **Contact Terra Verde Association**
    - Introduce ERW concept
    - Request meeting with João Moleiro (Sanguinho farmer)
    - Discuss pilot project interest
 
-2. ✅ **Sample Local Basalt**
+2. **Sample Local Basalt**
    - Identify active quarries near Sanguinho
    - Collect 5-10 basalt samples
    - XRF analysis for oxide composition
 
-3. ✅ **Baseline Monitoring**
+3. **Baseline Monitoring**
    - Install soil moisture sensors (if possible)
    - Sample groundwater for alkalinity baseline
    - Document current pasture yields
 
-4. ✅ **Develop Pilot Proposal**
+4. **Develop Pilot Proposal**
    - Detailed protocol
    - Budget and timeline
    - Regulatory approvals (if needed)
@@ -300,10 +300,10 @@ This soil data is **PERFECT** for your São Miguel ERW manuscript:
 **This soil data transforms your research from theoretical to immediately actionable!** 🎉
 
 You have:
-- ✅ Real São Miguel agricultural soils
-- ✅ Identified ERW opportunity (lime replacement)
-- ✅ Farmer contacts (through Terra Verde)
-- ✅ Quantified economic benefits
-- ✅ Island-scale CDR potential
+- Real São Miguel agricultural soils
+- Identified ERW opportunity (lime replacement)
+- Farmer contacts (through Terra Verde)
+- Quantified economic benefits
+- Island-scale CDR potential
 
 **Your São Miguel ERW project is now based on actual field data, not proxy estimates!**

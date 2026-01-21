@@ -290,7 +290,7 @@ White, A.F., Brantley, S.L., 2003. The effect of time on the weathering of silic
 
 ---
 
-**Methods Section Status:** ✅ COMPLETE  
+**Methods Section Status:** COMPLETE  
 **Word Count:** ~2,900 words  
 **Target Journal:** *Frontiers in Climate*, *Applied Geochemistry*, or *Nature Climate Change*  
 **Next Steps:** Results section, Discussion section, Figure preparation

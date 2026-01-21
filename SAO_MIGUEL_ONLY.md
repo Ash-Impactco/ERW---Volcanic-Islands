@@ -1,4 +1,4 @@
-# ✅ REFOCUSED: São Miguel Island (Azores) Only
+# REFOCUSED: São Miguel Island (Azores) Only
 
 **Date:** January 21, 2026  
 **Change:** Removed all Madeira and non-essential data  
@@ -6,9 +6,9 @@
 
 ---
 
-## 🎯 WHAT CHANGED
+## WHAT CHANGED
 
-### ✅ NEW São Miguel-Specific Documents Created
+### NEW São Miguel-Specific Documents Created
 
 1. **`SAO_MIGUEL_RESEARCH_FRAMEWORK.md`** (20 pages)
    - Complete scientific framework for São Miguel only
@@ -30,7 +30,7 @@
 
 ---
 
-## 🌋 SÃO MIGUEL FOCUS SUMMARY
+## SÃO MIGUEL FOCUS SUMMARY
 
 ### Location
 - **Island:** São Miguel, Azores Archipelago, Portugal
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 SÃO MIGUEL DATA (What You're Working With)
+## SÃO MIGUEL DATA (What You're Working With)
 
 ### Basalt Geochemistry (Typical São Miguel)
 ```
@@ -126,7 +126,7 @@ SAO_MIGUEL_BASALT = {
 
 ---
 
-## 📝 MANUSCRIPT (São Miguel-Specific)
+## MANUSCRIPT (São Miguel-Specific)
 
 **Title:** *Enhanced Rock Weathering Potential of São Miguel Island (Azores): Integrating Volcanic Basalt Carbon Removal with Dairy Agriculture*
 
@@ -151,7 +151,7 @@ SAO_MIGUEL_BASALT = {
 - Non-Azores volcanic island examples
 - Brita 2 and polished basalt data (Madeira-specific)
 
-### ✅ What Remains (São Miguel Only)
+### What Remains (São Miguel Only)
 - São Miguel geology and climate
 - Azores-specific basalt composition
 - Island-scale resource assessment
@@ -161,7 +161,7 @@ SAO_MIGUEL_BASALT = {
 
 ---
 
-## 📍 FIGURES NEEDED (São Miguel Only)
+## FIGURES NEEDED (São Miguel Only)
 
 ### Figure 1: São Miguel Island Context
 - Map showing volcanic systems (Sete Cidades, Fogo, Furnas)
@@ -214,7 +214,7 @@ SAO_MIGUEL_BASALT = {
 
 ---
 
-## ✅ CHECKLIST: São Miguel Research
+## CHECKLIST: São Miguel Research
 
 ### Data Collection
 - [ ] Collect 5-10 basalt samples from São Miguel (different volcanic systems)
@@ -244,7 +244,7 @@ SAO_MIGUEL_BASALT = {
 
 ---
 
-## 🎯 PILOT PROJECT PROPOSAL (São Miguel)
+## PILOT PROJECT PROPOSAL (São Miguel)
 
 ### Recommended Pilot
 
@@ -271,7 +271,7 @@ SAO_MIGUEL_BASALT = {
 
 ---
 
-## 🌍 BROADER IMPACT
+## BROADER IMPACT
 
 ### Transferability to Other Volcanic Islands
 
@@ -286,16 +286,16 @@ São Miguel serves as a **model** for:
 
 ---
 
-## ✅ SUMMARY
+## SUMMARY
 
 **You now have:**
-✅ São Miguel-specific research framework (complete)  
-✅ Island-scale resource assessment script  
-✅ Climate-corrected weathering model  
-✅ Agricultural integration analysis  
-✅ Pilot project proposal  
-✅ Manuscript outline  
-✅ Figure specifications  
+ São Miguel-specific research framework (complete)  
+ Island-scale resource assessment script  
+ Climate-corrected weathering model  
+ Agricultural integration analysis  
+ Pilot project proposal  
+ Manuscript outline  
+ Figure specifications  
 
 **All non-essential data removed.**
 
@@ -315,6 +315,6 @@ python3 case_studies/sao_miguel.py
 
 ---
 
-**Focus: 100% São Miguel Island, Azores 🌋**
+**Focus: 100% São Miguel Island, Azores**
 
 *Last updated: January 21, 2026*

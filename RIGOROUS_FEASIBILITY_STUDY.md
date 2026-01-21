@@ -1,4 +1,4 @@
-# 🔬 **Enhanced Rock Weathering – Soil CO₂ Sequestration Feasibility Study**
+# **Enhanced Rock Weathering – Soil CO₂ Sequestration Feasibility Study**
 ## **São Miguel Island (Azores): A Rigorous Geochemical Assessment**
 
 **Principal Investigator:** [Your Name]  
@@ -97,18 +97,18 @@
 
 | **Component** | **Assumed (wt%)** | **Measurement Needed** | **Method** |
 |---------------|-------------------|------------------------|------------|
-| SiO₂ | 47-50% | ✅ YES | XRF/ICP-MS |
-| MgO | 7-9% (assume 8%) | ✅ YES | XRF/ICP-MS |
-| CaO | 9-11% (assume 10%) | ✅ YES | XRF/ICP-MS |
-| Fe₂O₃ | 12-14% | ✅ YES | XRF/ICP-MS |
-| Al₂O₃ | 14-16% | ✅ YES | XRF/ICP-MS |
-| Na₂O | 3-4% | ✅ YES | XRF/ICP-MS |
-| K₂O | 2-3% | ✅ YES | XRF/ICP-MS |
-| TiO₂ | 3-4% | ✅ YES | XRF/ICP-MS |
+| SiO₂ | 47-50% | YES | XRF/ICP-MS |
+| MgO | 7-9% (assume 8%) | YES | XRF/ICP-MS |
+| CaO | 9-11% (assume 10%) | YES | XRF/ICP-MS |
+| Fe₂O₃ | 12-14% | YES | XRF/ICP-MS |
+| Al₂O₃ | 14-16% | YES | XRF/ICP-MS |
+| Na₂O | 3-4% | YES | XRF/ICP-MS |
+| K₂O | 2-3% | YES | XRF/ICP-MS |
+| TiO₂ | 3-4% | YES | XRF/ICP-MS |
 | **Trace Metals** |  |  |  |
-| Ni | 50-150 ppm | ✅ YES | ICP-MS |
-| Cr | 100-300 ppm | ✅ YES | ICP-MS |
-| As | <10 ppm | ✅ YES | ICP-MS |
+| Ni | 50-150 ppm | YES | ICP-MS |
+| Cr | 100-300 ppm | YES | ICP-MS |
+| As | <10 ppm | YES | ICP-MS |
 
 **Mineralogy (Expected):**
 - Olivine (Mg,Fe)₂SiO₄: 5-15% (most reactive)
@@ -151,10 +151,10 @@
 ```
 
 **Included in Carbon Accounting:**
-1. ✅ Basalt weathering CO₂ uptake
-2. ✅ Upstream emissions (extraction, grinding, transport)
-3. ✅ Alkalinity export verification (drainage water)
-4. ✅ Secondary carbonate formation (soil profile)
+1. Basalt weathering CO₂ uptake
+2. Upstream emissions (extraction, grinding, transport)
+3. Alkalinity export verification (drainage water)
+4. Secondary carbonate formation (soil profile)
 
 **Excluded (Conservative):**
 1. ❌ Avoided lime production emissions (farmer co-benefit, not CDR)
@@ -295,9 +295,9 @@ $$
 - Mg²⁺, Ca²⁺ concentration profiles
 
 **Data Needed:**
-- ✅ Soil hydraulic properties (K_sat, porosity, water retention curve)
-- ✅ Basalt dissolution rate constants (literature + BET surface area)
-- ✅ Soil solution chemistry (baseline measurement needed)
+- Soil hydraulic properties (K_sat, porosity, water retention curve)
+- Basalt dissolution rate constants (literature + BET surface area)
+- Soil solution chemistry (baseline measurement needed)
 
 ---
 
@@ -327,7 +327,7 @@ $$
 │  → River         │    │  precipitation      │
 │  → OCEAN         │    │  in soil profile    │
 │                  │    │                     │
-│  DURABLE ✅      │    │  UNCERTAIN ⚠️       │
+│  DURABLE      │    │  UNCERTAIN       │
 │  (1000+ yrs)     │    │  (may reverse)      │
 └──────────────────┘    └─────────────────────┘
 ```
@@ -430,7 +430,7 @@ NET REMOVAL:       211 kg CO₂/ha/yr = 0.21 tCO₂/ha/yr
 ```
 Gross removal:     110 kg CO₂/ha/yr (measured)
 Upstream emissions: 149 kg CO₂/ha/yr
-NET REMOVAL:       -39 kg CO₂/ha/yr = -0.04 tCO₂/ha/yr ⚠️ NEGATIVE!
+NET REMOVAL:       -39 kg CO₂/ha/yr = -0.04 tCO₂/ha/yr NEGATIVE!
 ```
 
 **→ CRITICAL FINDING: If weathering is slower than expected, NET removal may be ZERO or NEGATIVE**
@@ -524,11 +524,11 @@ After 3 years: ΔpH = +0.3
 
 | **Pathway** | **Measurement Method** | **Frequency** | **Cost** | **Durability** |
 |-------------|------------------------|---------------|----------|----------------|
-| **Alkalinity Export** | Drainage water: pH, alkalinity, Ca²⁺, Mg²⁺ | Monthly | €500/yr | ✅ Durable (1000+ yrs) |
-| **Soil Inorganic Carbon** | Soil cores: calcite, dolomite XRD | Annual | €2,000/yr | ⚠️ May reverse |
-| **Dissolved Inorganic Carbon** | Soil solution lysimeters | Monthly | €1,500/yr | ✅ Durable if exported |
+| **Alkalinity Export** | Drainage water: pH, alkalinity, Ca²⁺, Mg²⁺ | Monthly | €500/yr | Durable (1000+ yrs) |
+| **Soil Inorganic Carbon** | Soil cores: calcite, dolomite XRD | Annual | €2,000/yr | May reverse |
+| **Dissolved Inorganic Carbon** | Soil solution lysimeters | Monthly | €1,500/yr | Durable if exported |
 
-**PRIMARY MRV METHOD: Alkalinity Export** ✅
+**PRIMARY MRV METHOD: Alkalinity Export**
 
 ### **6.2 Alkalinity Export Monitoring Protocol**
 
@@ -572,10 +572,10 @@ $$
 
 | **Standard** | **Durability Requirement** | **MRV Method** | **São Miguel ERW Compliance** |
 |--------------|----------------------------|----------------|-------------------------------|
-| **Puro.earth** | >100 years | Alkalinity export or SIC | ✅ YES (if alkalinity export verified) |
-| **Gold Standard** | Permanent | Ocean alkalinity delivery | ✅ YES (drainage → groundwater → ocean) |
-| **Verra (in development)** | >1000 years | Direct ocean delivery | ⚠️ PARTIAL (groundwater pathway needs validation) |
-| **Stripe Climate** | High confidence | Field measurements + model | ✅ YES (alkalinity export = direct measurement) |
+| **Puro.earth** | >100 years | Alkalinity export or SIC | YES (if alkalinity export verified) |
+| **Gold Standard** | Permanent | Ocean alkalinity delivery | YES (drainage → groundwater → ocean) |
+| **Verra (in development)** | >1000 years | Direct ocean delivery | PARTIAL (groundwater pathway needs validation) |
+| **Stripe Climate** | High confidence | Field measurements + model | YES (alkalinity export = direct measurement) |
 
 **Conclusion:** São Miguel ERW is **MRV-compliant** if alkalinity export is robustly measured
 
@@ -587,24 +587,24 @@ $$
 
 | **Criterion** | **Assessment** | **Evidence** | **Status** |
 |---------------|----------------|--------------|------------|
-| **Weathering Rate** | 5-12x enhancement vs. neutral soils | pH 5.2-6.0, OM 6-12%, high rainfall | ✅ FEASIBLE |
-| **Alkalinity Export** | High drainage flux (750-1,200 mm/yr) | No dry season, permeable soils | ✅ FEASIBLE |
-| **Durable Sequestration** | Alkalinity → groundwater → ocean | Calcite undersaturated (SI <0 expected) | ✅ LIKELY |
-| **Measurability** | Alkalinity increase >0.5 meq/L | Field lysimeters, monthly sampling | ✅ MEASURABLE |
-| **Net Positive Removal** | 0.15 ± 0.07 tCO₂/ha/yr | Monte Carlo uncertainty analysis | ✅ PROBABLE (85% confidence) |
+| **Weathering Rate** | 5-12x enhancement vs. neutral soils | pH 5.2-6.0, OM 6-12%, high rainfall | FEASIBLE |
+| **Alkalinity Export** | High drainage flux (750-1,200 mm/yr) | No dry season, permeable soils | FEASIBLE |
+| **Durable Sequestration** | Alkalinity → groundwater → ocean | Calcite undersaturated (SI <0 expected) | LIKELY |
+| **Measurability** | Alkalinity increase >0.5 meq/L | Field lysimeters, monthly sampling | MEASURABLE |
+| **Net Positive Removal** | 0.15 ± 0.07 tCO₂/ha/yr | Monte Carlo uncertainty analysis | PROBABLE (85% confidence) |
 
-**Overall Technical Feasibility: HIGH** ✅
+**Overall Technical Feasibility: HIGH**
 
 ### **7.2 Environmental Safety**
 
 | **Risk** | **Probability** | **Severity** | **Mitigation** | **Status** |
 |----------|----------------|--------------|----------------|------------|
-| Trace metal mobilization (Ni, Cr) | Low | Medium | Source rock screening, pH monitoring | ✅ MANAGEABLE |
-| pH over-liming | Very Low | Low | Application rate limits (<5 t/ha/yr) | ✅ SAFE |
-| Eutrophication (P, Si) | Very Low | Low | Drainage water monitoring | ✅ SAFE |
-| Soil compaction (heavy machinery) | Medium | Low | No-till application, light equipment | ✅ MANAGEABLE |
+| Trace metal mobilization (Ni, Cr) | Low | Medium | Source rock screening, pH monitoring | MANAGEABLE |
+| pH over-liming | Very Low | Low | Application rate limits (<5 t/ha/yr) | SAFE |
+| Eutrophication (P, Si) | Very Low | Low | Drainage water monitoring | SAFE |
+| Soil compaction (heavy machinery) | Medium | Low | No-till application, light equipment | MANAGEABLE |
 
-**Overall Environmental Safety: HIGH** ✅
+**Overall Environmental Safety: HIGH**
 
 ### **7.3 Economic Viability**
 
@@ -633,7 +633,7 @@ $$
 **São Miguel Potential:**
 - Suitable land: 15,000 ha (acidic dairy pastures)
 - Annual basalt demand: 40,500 tonnes/yr (at 2.7 t/ha/yr)
-- Quarry capacity: 5 quarries × 10,000 t/yr = 50,000 t/yr ✅ SUFFICIENT
+- Quarry capacity: 5 quarries × 10,000 t/yr = 50,000 t/yr SUFFICIENT
 - CO₂ removal: 2,250 tCO₂/yr (0.3% of island emissions)
 
 **Azores Archipelago Potential:**
@@ -766,27 +766,27 @@ $$
 
 **São Miguel Island ERW is:**
 
-✅ **TECHNICALLY FEASIBLE**
+ **TECHNICALLY FEASIBLE**
 - High weathering rates (5-12x enhancement) from acidic pH, high OM, high rainfall
 - Durable CO₂ sequestration via alkalinity export (→ groundwater → ocean)
 - Measurable via field lysimeters (alkalinity increase >0.5 meq/L)
 
-✅ **ENVIRONMENTALLY SAFE**
+ **ENVIRONMENTALLY SAFE**
 - Trace metal mobilization below WHO limits (requires monitoring)
 - No pH over-liming risk at 2.7 t/ha/yr
 - Low eutrophication risk
 
-✅ **ECONOMICALLY VIABLE**
+ **ECONOMICALLY VIABLE**
 - Net farmer benefit: €65/ha/yr (lime replacement + carbon credits + Mg correction)
 - Carbon credit price: €80/tCO₂ makes ERW profitable
 - Scalable to 15,000 ha on São Miguel
 
-✅ **MRV-COMPLIANT**
+ **MRV-COMPLIANT**
 - Alkalinity export = direct, measurable CO₂ removal pathway
 - Monthly monitoring achieves <50% uncertainty after 3 years
 - Meets Puro.earth, Gold Standard, Stripe Climate requirements
 
-⚠️ **KEY UNCERTAINTIES:**
+ **KEY UNCERTAINTIES:**
 - **Weathering efficiency:** 30-80% over 10 years (literature range)
   → **Field measurement needed**
 - **Net CO₂ removal:** 0.08-0.35 tCO₂/ha/yr (95% CI)
@@ -816,7 +816,7 @@ $$
 
 ---
 
-**Document Status:** ✅ COMPLETE  
+**Document Status:** COMPLETE  
 **Next Step:** Sample basalt, install lysimeters, begin pilot  
 **Timeline to Publication:** 18-24 months  
 **Confidence in Success:** HIGH (85% probability of net positive CO₂ removal)

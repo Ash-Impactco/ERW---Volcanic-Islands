@@ -1,17 +1,17 @@
-# 🎯 **ERW Viability Analysis: Executive Summary**
+# **ERW Viability Analysis: Executive Summary**
 ## **São Miguel Island, Azores**
 
 ---
 
-## 📊 **Key Results at a Glance**
+## **Key Results at a Glance**
 
-### **Overall Viability: ⭐⭐⭐⭐⭐ EXCELLENT (85.2/100)**
+### **Overall Viability: EXCELLENT (85.2/100)**
 
-**Status:** ✅ **STRONGLY RECOMMENDED for immediate implementation**
+**Status:** **STRONGLY RECOMMENDED for immediate implementation**
 
 ---
 
-## 🌟 **Why São Miguel is PERFECT for Enhanced Rock Weathering**
+##  **Why São Miguel is PERFECT for Enhanced Rock Weathering**
 
 | **Factor** | **São Miguel** | **Why This Matters** | **vs. Global Average** |
 |------------|----------------|----------------------|------------------------|
@@ -24,7 +24,7 @@
 
 ---
 
-## 📈 **Quantitative Results**
+## **Quantitative Results**
 
 ### **CO₂ Removal Potential**
 
@@ -75,7 +75,7 @@ Island-Scale (15,000 ha at 50% adoption):
 - **Weathering Rate:** 11.7x baseline
 - **CO₂ Removal:** 2.37 t/ha/yr
 - **Economic Benefit:** €274/ha/yr
-- **Recommendation:** **PRIMARY PILOT SITE** ⭐
+- **Recommendation:** **PRIMARY PILOT SITE**
 
 ### **🥈 #2: J. Moleiro 3 (EXCELLENT - 89/100)**
 - **pH:** 5.5 (very favorable)
@@ -95,7 +95,7 @@ Island-Scale (15,000 ha at 50% adoption):
 
 ---
 
-## 🔬 **Scientific Validation**
+## **Scientific Validation**
 
 ### **Weathering Rate Multipliers**
 
@@ -114,44 +114,44 @@ São Miguel Range:
 
 | **Study** | **Location** | **CO₂ Rate (t/ha/yr)** | **São Miguel Comparison** |
 |-----------|-------------|------------------------|---------------------------|
-| Beerling et al. (2020) | USA/Global | 0.5-2.0 | ✅ **Equal to best sites** |
-| Haque et al. (2020) | Malaysia | 1.0-4.0 | ✅ **Within range** |
-| Kantola et al. (2017) | USA Midwest | 0.3-1.0 | ✅ **2-6x better** |
-| Kelland et al. (2020) | UK | 0.2-0.8 | ✅ **3-12x better** |
+| Beerling et al. (2020) | USA/Global | 0.5-2.0 | **Equal to best sites** |
+| Haque et al. (2020) | Malaysia | 1.0-4.0 | **Within range** |
+| Kantola et al. (2017) | USA Midwest | 0.3-1.0 | **2-6x better** |
+| Kelland et al. (2020) | UK | 0.2-0.8 | **3-12x better** |
 | **São Miguel (this study)** | **Azores** | **1.2-2.4** | **TOP TIER GLOBALLY** |
 
 ---
 
-## ✅ **Critical Success Factors**
+## **Critical Success Factors**
 
 ### **Why This Will Work:**
 
-1. ✅ **Geochemistry is perfect**
+1. **Geochemistry is perfect**
    - Acidic soils (pH 5.2-6.0) = fast weathering
    - High CEC (12-20 cmol/kg) = good ion exchange
    - Low initial Mg/Ca ratio = large sink capacity
 
-2. ✅ **Climate is ideal**
+2. **Climate is ideal**
    - 1,750 mm annual rainfall (top 10% globally)
    - 18°C average temperature (optimal kinetics)
    - No dry season (year-round weathering)
 
-3. ✅ **Economics are compelling**
+3. **Economics are compelling**
    - Basalt costs 1/3 of imported lime
    - Carbon credits add €136/ha/yr
    - TOTAL benefit: €221/ha/yr vs. status quo
 
-4. ✅ **Farmers are ready**
+4. **Farmers are ready**
    - Already applying 3,000 kg lime/ha/yr
    - Desperate for Mg (ALL plots deficient)
    - Proven willingness to adopt amendments
 
-5. ✅ **Local resources available**
+5. **Local resources available**
    - Multiple basalt quarries on island
    - Existing crushing infrastructure
    - Low transport costs
 
-6. ✅ **Strong scientific basis**
+6. **Strong scientific basis**
    - Real soil data (not models!)
    - Conservative weathering assumptions
    - Matches published studies
@@ -169,11 +169,11 @@ São Miguel Range:
 | Basalt supply constraints | Low | Medium | Multiple quarry partnerships |
 | Carbon credit verification | Medium | Medium | Rigorous MRV protocol; third-party certification |
 
-**Overall Risk Assessment:** ✅ **LOW** (well-managed through monitoring)
+**Overall Risk Assessment:** **LOW** (well-managed through monitoring)
 
 ---
 
-## 📅 **Recommended Implementation Timeline**
+## **Recommended Implementation Timeline**
 
 ### **Phase 1: Pilot Project (Months 1-6)**
 ```
@@ -222,17 +222,17 @@ Year 2:
 
 ---
 
-## 💰 **Funding Opportunities**
+## **Funding Opportunities**
 
 ### **Pilot Phase Budget: €38,000**
 
 **Potential Funders:**
-1. ✅ **EU Horizon Europe** (Climate Action calls)
-2. ✅ **Portuguese National Science Foundation** (FCT)
-3. ✅ **Breakthrough Energy Ventures** (CDR portfolio)
-4. ✅ **Stripe Climate** (Frontier Fund)
-5. ✅ **Shopify Sustainability Fund**
-6. ✅ **University of Azores** (Internal grants)
+1. **EU Horizon Europe** (Climate Action calls)
+2. **Portuguese National Science Foundation** (FCT)
+3. **Breakthrough Energy Ventures** (CDR portfolio)
+4. **Stripe Climate** (Frontier Fund)
+5. **Shopify Sustainability Fund**
+6. **University of Azores** (Internal grants)
 
 ### **Revenue Streams (Commercial Phase):**
 - Carbon credit sales: €80-120/tCO₂
@@ -242,35 +242,35 @@ Year 2:
 
 ---
 
-## 📝 **Publication Strategy**
+## **Publication Strategy**
 
 ### **Target Journals (Priority Order):**
 
 1. **Nature Climate Change** (IF: 30.7)
    - Angle: "First island-scale ERW implementation with real soil data"
-   - Status: ✅ Ready to draft
+   - Status: Ready to draft
 
 2. **Frontiers in Climate** (Open Access)
    - Angle: "Comprehensive viability assessment for volcanic islands"
-   - Status: ✅ Ready to draft
+   - Status: Ready to draft
 
 3. **Applied Geochemistry** (IF: 3.4)
    - Angle: "Geochemical controls on basalt weathering in acidic soils"
-   - Status: ✅ Ready to draft
+   - Status: Ready to draft
 
 ### **Key Messages:**
-- ✅ Real field data (not model projections)
-- ✅ Integrates soil science + economics + climate
-- ✅ Actionable pathway for farmers
-- ✅ Scalable to 15,000 ha (island-wide)
+- Real field data (not model projections)
+- Integrates soil science + economics + climate
+- Actionable pathway for farmers
+- Scalable to 15,000 ha (island-wide)
 
 ---
 
-## 🎯 **Success Metrics**
+## **Success Metrics**
 
 ### **Year 1 Goals:**
-- [x] Soil analysis complete (11 plots) ✅
-- [x] Viability assessment complete (85.2/100) ✅
+- [x] Soil analysis complete (11 plots)
+- [x] Viability assessment complete (85.2/100)
 - [ ] Basalt samples analyzed
 - [ ] 3 pilot plots established
 - [ ] Manuscript submitted
@@ -291,13 +291,13 @@ Year 2:
 
 ---
 
-## 🔍 **Data Quality Statement**
+## **Data Quality Statement**
 
 **Data Source:** Terra Verde Agricultural Association (Azores)  
 **Collection Date:** 2024  
 **Sample Size:** 11 plots, 22 hectares  
 **Analysis Method:** Certified soil laboratory (ISO 17025)  
-**Quality:** ✅ **HIGH** (professional agronomic analysis)
+**Quality:** **HIGH** (professional agronomic analysis)
 
 **Parameters Measured:**
 - pH (H₂O, 1:2.5)
@@ -346,12 +346,12 @@ Year 2:
 
 São Miguel's agricultural soils represent **one of the best ERW opportunities globally** due to:
 
-✅ **Perfect geochemistry** (acidic, high OM, Mg-deficient)  
-✅ **Ideal climate** (high rainfall, optimal temperature)  
-✅ **Strong economics** (€221/ha/yr benefit vs. lime)  
-✅ **Ready market** (farmers already lime)  
-✅ **Local resources** (basalt quarries on island)  
-✅ **Scalability** (15,000 ha potential)  
+ **Perfect geochemistry** (acidic, high OM, Mg-deficient)  
+ **Ideal climate** (high rainfall, optimal temperature)  
+ **Strong economics** (€221/ha/yr benefit vs. lime)  
+ **Ready market** (farmers already lime)  
+ **Local resources** (basalt quarries on island)  
+ **Scalability** (15,000 ha potential)  
 
 **Viability Score: 85.2/100 (EXCELLENT)**
 
@@ -361,4 +361,4 @@ São Miguel's agricultural soils represent **one of the best ERW opportunities g
 
 **Document Version:** 1.0  
 **Date:** January 2026  
-**Status:** ✅ **READY FOR ACTION**
+**Status:** **READY FOR ACTION**

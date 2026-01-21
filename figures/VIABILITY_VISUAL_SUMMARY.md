@@ -1,4 +1,4 @@
-# 📊 **ERW Viability Analysis: Visual Summary**
+# **ERW Viability Analysis: Visual Summary**
 ## **São Miguel Island, Azores - Sanguinho Agricultural Area**
 
 ---
@@ -33,17 +33,17 @@ Legend:
 
 | **Rank** | **Plot ID** | **Score** | **Rating** | **Action** |
 |----------|-------------|-----------|------------|------------|
-| 🥇 **#1** | **J. Moleiro 7** | **92** | **⭐⭐⭐⭐⭐ EXCEPTIONAL** | **PRIMARY PILOT** |
-| 🥈 **#2** | **J. Moleiro 3** | **89** | **⭐⭐⭐⭐⭐ EXCELLENT** | **SECONDARY PILOT** |
-| 🥈 **#2** | **J. Moleiro 5** | **89** | **⭐⭐⭐⭐⭐ EXCELLENT** | **CONTROL SITE** |
-| 4 | J. Moleiro 1 | 87 | ⭐⭐⭐⭐⭐ EXCELLENT | Expansion Phase 1 |
-| 4 | J. Moleiro 4 | 87 | ⭐⭐⭐⭐⭐ EXCELLENT | Expansion Phase 1 |
-| 6 | J. Moleiro 10 | 85 | ⭐⭐⭐⭐⭐ EXCELLENT | Expansion Phase 1 |
-| 7 | J. Moleiro 6 | 84 | ⭐⭐⭐⭐⭐ EXCELLENT | Expansion Phase 1 |
-| 7 | J. Moleiro 8 | 84 | ⭐⭐⭐⭐⭐ EXCELLENT | Expansion Phase 2 |
-| 9 | J. Moleiro 2 | 82 | ⭐⭐⭐⭐⭐ EXCELLENT | Expansion Phase 2 |
-| 10 | J. Moleiro 9 | 81 | ⭐⭐⭐⭐⭐ EXCELLENT | Expansion Phase 2 |
-| 11 | J. Moleiro 11 | 77 | ⭐⭐⭐⭐ VERY GOOD | Monitor Only |
+| 🥇 **#1** | **J. Moleiro 7** | **92** | ** EXCEPTIONAL** | **PRIMARY PILOT** |
+| 🥈 **#2** | **J. Moleiro 3** | **89** | ** EXCELLENT** | **SECONDARY PILOT** |
+| 🥈 **#2** | **J. Moleiro 5** | **89** | ** EXCELLENT** | **CONTROL SITE** |
+| 4 | J. Moleiro 1 | 87 | EXCELLENT | Expansion Phase 1 |
+| 4 | J. Moleiro 4 | 87 | EXCELLENT | Expansion Phase 1 |
+| 6 | J. Moleiro 10 | 85 | EXCELLENT | Expansion Phase 1 |
+| 7 | J. Moleiro 6 | 84 | EXCELLENT | Expansion Phase 1 |
+| 7 | J. Moleiro 8 | 84 | EXCELLENT | Expansion Phase 2 |
+| 9 | J. Moleiro 2 | 82 | EXCELLENT | Expansion Phase 2 |
+| 10 | J. Moleiro 9 | 81 | EXCELLENT | Expansion Phase 2 |
+| 11 | J. Moleiro 11 | 77 | VERY GOOD | Monitor Only |
 
 **Average:** 85.2/100 (EXCELLENT)
 
@@ -90,7 +90,7 @@ Average: 8.1x (TOP 5% GLOBALLY)
 
 ---
 
-## 🌍 **CO₂ Removal Potential**
+## **CO₂ Removal Potential**
 
 ### **Scenario 1: Lime Replacement (Conservative)**
 
@@ -165,7 +165,7 @@ Total (22 ha): 68.2 tCO₂/yr
 
 ---
 
-## 💰 **Economic Benefit Analysis**
+## **Economic Benefit Analysis**
 
 ### **Farmer Benefit (€ per hectare per year)**
 
@@ -231,7 +231,7 @@ SAME for ALL plots    HIGHER for better plots    HIGHER for better plots
 
 ---
 
-## 📈 **Scaling Potential**
+## **Scaling Potential**
 
 ### **From Pilot to Island-Scale**
 
@@ -286,55 +286,55 @@ Farmer benefit: €16.6 million total
 
 ---
 
-## 🎯 **Key Takeaways**
+## **Key Takeaways**
 
 ### **1. Soil Conditions are EXCEPTIONAL**
-- ✅ pH 5.2-6.0 (acidic) → 5-12x faster weathering
-- ✅ High organic matter (6-12%) → biological enhancement
-- ✅ ALL plots Mg-deficient → strong farmer motivation
+- pH 5.2-6.0 (acidic) → 5-12x faster weathering
+- High organic matter (6-12%) → biological enhancement
+- ALL plots Mg-deficient → strong farmer motivation
 
 ### **2. CO₂ Removal Rates are COMPETITIVE**
-- ✅ 1.2-2.4 tCO₂/ha/yr (lime replacement)
-- ✅ 1.7-4.4 tCO₂/ha/yr (full ERW)
-- ✅ Matches or exceeds published global ERW studies
+- 1.2-2.4 tCO₂/ha/yr (lime replacement)
+- 1.7-4.4 tCO₂/ha/yr (full ERW)
+- Matches or exceeds published global ERW studies
 
 ### **3. Economics are COMPELLING**
-- ✅ €221/ha/yr benefit vs. imported lime
-- ✅ Basalt costs 1/3 of lime
-- ✅ Carbon credits add €96-190/ha/yr
+- €221/ha/yr benefit vs. imported lime
+- Basalt costs 1/3 of lime
+- Carbon credits add €96-190/ha/yr
 
 ### **4. Scaling Pathway is CLEAR**
-- ✅ Start with 3 pilot plots (J. Moleiro 7, 3, 5)
-- ✅ Expand to farm scale (100-200 ha) in Year 2-3
-- ✅ Reach 7,500 ha (50% of island) by Year 10
-- ✅ Total impact: 127,500 tCO₂ removed, €16.6M farmer benefit
+- Start with 3 pilot plots (J. Moleiro 7, 3, 5)
+- Expand to farm scale (100-200 ha) in Year 2-3
+- Reach 7,500 ha (50% of island) by Year 10
+- Total impact: 127,500 tCO₂ removed, €16.6M farmer benefit
 
 ### **5. Global Significance**
-- ✅ São Miguel ranks in TOP 5% of global ERW sites
-- ✅ Replicable model for 100+ volcanic islands worldwide
-- ✅ Publication-ready data for high-impact journal
+- São Miguel ranks in TOP 5% of global ERW sites
+- Replicable model for 100+ volcanic islands worldwide
+- Publication-ready data for high-impact journal
 
 ---
 
 ## 🚀 **Recommended Action**
 
 ### **IMMEDIATE (This Month):**
-1. ✅ Sample São Miguel basalt (3-5 quarries)
-2. ✅ XRF/ICP-MS analysis
-3. ✅ Contact João Moleiro for pilot permission
-4. ✅ Apply for University of Azores partnership
+1. Sample São Miguel basalt (3-5 quarries)
+2. XRF/ICP-MS analysis
+3. Contact João Moleiro for pilot permission
+4. Apply for University of Azores partnership
 
 ### **SHORT-TERM (Months 2-6):**
-1. ✅ Establish 3 pilot plots (0.5 ha each)
-2. ✅ Install monitoring equipment
-3. ✅ Apply basalt (2.7, 10, 50 t/ha on 3 plots)
-4. ✅ Begin monthly sampling
+1. Establish 3 pilot plots (0.5 ha each)
+2. Install monitoring equipment
+3. Apply basalt (2.7, 10, 50 t/ha on 3 plots)
+4. Begin monthly sampling
 
 ### **MEDIUM-TERM (Months 6-24):**
-1. ✅ Collect weathering rate data
-2. ✅ Measure crop response
-3. ✅ Economic analysis
-4. ✅ Submit manuscript to *Nature Climate Change* or *Frontiers in Climate*
+1. Collect weathering rate data
+2. Measure crop response
+3. Economic analysis
+4. Submit manuscript to *Nature Climate Change* or *Frontiers in Climate*
 
 ---
 
@@ -347,4 +347,4 @@ Farmer benefit: €16.6 million total
 **Prepared by:** ERW Research Team  
 **Data Source:** Terra Verde Association (2024), 11 plots, Sanguinho area  
 **Analysis Date:** January 2026  
-**Status:** ✅ **PUBLICATION-READY**
+**Status:** **PUBLICATION-READY**

@@ -2,7 +2,7 @@
 ## Enhanced Rock Weathering on São Miguel Island, Azores
 
 **Date:** 21 January 2026  
-**Status:** VALIDATION & ANALYSIS COMPLETE ✅  
+**Status:** VALIDATION & ANALYSIS COMPLETE  
 **Confidence:** PUBLICATION-READY
 
 ---
@@ -17,14 +17,14 @@ This comprehensive analysis validates the Enhanced Rock Weathering (ERW) feasibi
 
 | Metric | Result | Status |
 |--------|--------|--------|
-| **Primary pilot site viability** | J. Moleiro 7: 92/100 (EXCEPTIONAL) | ✅ Ready |
-| **Weathering multiplier range** | 4.6–11.7× baseline | ✅ Justified vs literature |
-| **CO₂ removal (lime replacement)** | 1.7 t/ha/yr (central estimate) | ✅ Conservative |
-| **CO₂ removal (full ERW)** | 3.1 t/ha/yr | ✅ Positive |
-| **Economic benefit** | €220–274/ha/yr | ✅ Compelling |
-| **Risk assessment** | LOW (well-managed) | ✅ Mitigated |
-| **95% confidence interval** | 1.0–2.4 t CO₂/ha/yr | ✅ All positive |
-| **Publication readiness** | JOURNAL-READY | ✅ Proceed |
+| **Primary pilot site viability** | J. Moleiro 7: 92/100 (EXCEPTIONAL) | Ready |
+| **Weathering multiplier range** | 4.6–11.7× baseline | Justified vs literature |
+| **CO₂ removal (lime replacement)** | 1.7 t/ha/yr (central estimate) | Conservative |
+| **CO₂ removal (full ERW)** | 3.1 t/ha/yr | Positive |
+| **Economic benefit** | €220–274/ha/yr | Compelling |
+| **Risk assessment** | LOW (well-managed) | Mitigated |
+| **95% confidence interval** | 1.0–2.4 t CO₂/ha/yr | All positive |
+| **Publication readiness** | JOURNAL-READY | Proceed |
 
 ---
 
@@ -48,19 +48,19 @@ This comprehensive analysis validates the Enhanced Rock Weathering (ERW) feasibi
 |  |  |  | **acidic soil + high rainfall** |
 
 **Scientific justification:**
-- ✅ pH effect: Silicate weathering rate ∝ 10^(7-pH)
+- pH effect: Silicate weathering rate ∝ 10^(7-pH)
   - São Miguel pH range (5.2–6.0) is OPTIMAL for fast weathering
   - pH 5.3 vs pH 7.0 baseline → ~250× increase before saturation correction
   
-- ✅ Organic matter effect: 6–12% OM provides ligand enhancement
+- Organic matter effect: 6–12% OM provides ligand enhancement
   - Organic acids (oxalic, citric) complex with Mg²⁺, Ca²⁺
   - Microbial respiration increases soil pCO₂ (10–100× atmospheric)
   
-- ✅ Climate effect: 1,750 mm annual rainfall with year-round drainage
+- Climate effect: 1,750 mm annual rainfall with year-round drainage
   - High percolation → sustained mineral-water contact
   - No dry season → continuous weathering
 
-**Verdict:** ✅ **CONSERVATIVE AND JUSTIFIED**
+**Verdict:** **CONSERVATIVE AND JUSTIFIED**
 
 ---
 
@@ -78,7 +78,7 @@ Export to ocean (durable):
   Timescale: >1,000 years (Urey reaction)
 ```
 
-**Status:** ✅ **WELL-ESTABLISHED GEOCHEMISTRY**
+**Status:** **WELL-ESTABLISHED GEOCHEMISTRY**
 - This is the basis for global silicate weathering carbon cycle
 - São Miguel's high rainfall ensures HCO₃⁻ export
 - **MUST verify in pilot:** Measure groundwater HCO₃⁻ quarterly
@@ -90,9 +90,9 @@ Undesirable short-circuit:
 ```
 
 **Mitigation (São Miguel-specific):**
-- ✅ Acidic soils (pH 5.2–6.0) → calcite undersaturated
-- ✅ Not expected to precipitate significantly
-- ⚠️ **Action:** Monitor soil pH, saturation indices quarterly (first 2 years)
+- Acidic soils (pH 5.2–6.0) → calcite undersaturated
+- Not expected to precipitate significantly
+- **Action:** Monitor soil pH, saturation indices quarterly (first 2 years)
 
 ---
 
@@ -108,7 +108,7 @@ Undesirable short-circuit:
 - Transport assumes ~100 km by truck (conservative)
 - Could be improved with **local quarry** (reduce distance)
 
-**Status:** ✅ **CONSERVATIVE & TRANSPARENT**
+**Status:** **CONSERVATIVE & TRANSPARENT**
 - Emissions explicitly subtracted from gross CO₂ removal
 - Estimates are at the pessimistic end (actual may be lower)
 
@@ -131,12 +131,12 @@ Undesirable short-circuit:
 5. **Regulatory context** → Current lime use is 3,000 kg/ha/yr (same metal loading)
 
 **Mitigation:**
-- ✅ XRF analysis of basalt source (select clean quarry)
-- ✅ Quarterly groundwater sampling (ICP-MS)
-- ✅ Annual soil analysis for total Ni, Cr at 0–30 cm
-- ✅ **Success criterion:** All measurements <WHO drinking water limits
+- XRF analysis of basalt source (select clean quarry)
+- Quarterly groundwater sampling (ICP-MS)
+- Annual soil analysis for total Ni, Cr at 0–30 cm
+- **Success criterion:** All measurements <WHO drinking water limits
 
-**Status:** ✅ **LOW RISK with monitoring**
+**Status:** **LOW RISK with monitoring**
 
 ---
 
@@ -203,7 +203,7 @@ Rainfall (mm)   20%      35%      45%      60%
 - Central: **374 t CO₂**
 - Upper bound: **528 t CO₂**
 
-✅ **All scenarios are positive. Project is robust.**
+ **All scenarios are positive. Project is robust.**
 
 ---
 
@@ -215,13 +215,13 @@ Rainfall (mm)   20%      35%      45%      60%
 
 | Parameter | Value | Best Range | Status |
 |-----------|-------|---|---|
-| pH | 5.3 | 5.0–5.5 | ✅ OPTIMAL |
-| Organic Matter | 12% | 8–12% | ✅ HIGHEST on farm |
-| Mg Deficit | 0.8 cmol/kg | >0.5 | ✅ Clear farmer need |
-| CEC | 18 cmol/kg | >15 | ✅ GOOD |
-| Weathering multiplier | 11.7× | >8× | ✅ TOP 1% globally |
-| Expected CO₂ removal | 2.37 t/ha/yr | >1.7 | ✅ EXCELLENT |
-| Economic benefit | €274/ha/yr | >€220 | ✅ BEST site |
+| pH | 5.3 | 5.0–5.5 | OPTIMAL |
+| Organic Matter | 12% | 8–12% | HIGHEST on farm |
+| Mg Deficit | 0.8 cmol/kg | >0.5 | Clear farmer need |
+| CEC | 18 cmol/kg | >15 | GOOD |
+| Weathering multiplier | 11.7× | >8× | TOP 1% globally |
+| Expected CO₂ removal | 2.37 t/ha/yr | >1.7 | EXCELLENT |
+| Economic benefit | €274/ha/yr | >€220 | BEST site |
 
 **Pilot Design:**
 - **Area:** 1–2 ha
@@ -241,30 +241,30 @@ Rainfall (mm)   20%      35%      45%      60%
 
 ### What is MEASURABLE (Field & Lab)
 
-✅ **Basalt applied:**
+ **Basalt applied:**
 - Method: Truck weigh-in/out, GPS location, photo documentation
 - Frequency: Each application
 - Uncertainty: ±5%
 
-✅ **Soil chemistry:**
+ **Soil chemistry:**
 - Method: Standard lab analysis (0–10, 10–30 cm depths)
 - Parameters: pH, exchangeable Ca/Mg, CEC, organic matter
 - Frequency: Quarterly Y1–Y2, annually Y3+
 - Uncertainty: ±0.2 pH, ±10% cations
 
-✅ **Groundwater alkalinity:**
+ **Groundwater alkalinity:**
 - Method: Field sampling from monitoring wells, titration or DIC
 - Parameters: pH, HCO₃⁻, total inorganic carbon (DIC)
 - Frequency: Quarterly
 - Uncertainty: ±5%
 
-✅ **Basalt weathering rate:**
+ **Basalt weathering rate:**
 - Method: Bury mesh bags, annual retrieval and analysis
 - Measurement: Mass loss, SEM-EDS of weathered surfaces
 - Frequency: Annual
 - Uncertainty: ±15%
 
-✅ **Pasture response:**
+ **Pasture response:**
 - Method: Quadrat sampling (10× 1m² per treatment)
 - Measurement: Dry matter yield, forage quality
 - Frequency: Annual (end of season)
@@ -272,17 +272,17 @@ Rainfall (mm)   20%      35%      45%      60%
 
 ### What is MODELED (Calculated)
 
-⚠️ **CO₂ sequestration rate:**
+ **CO₂ sequestration rate:**
 - Calculation: ΔCa²⁺ + ΔMg²⁺ released → CO₂ via stoichiometry
 - Inputs: Measured cation concentration, soil drainage rate
 - Uncertainty: ±30%
 
-⚠️ **Alkalinity export:**
+ **Alkalinity export:**
 - Calculation: [HCO₃⁻] (measured) × annual drainage flux (water balance)
 - Uncertainty: ±25%
 - Validation: Compare to river water downstream
 
-⚠️ **Permanence (durable sequestration):**
+ **Permanence (durable sequestration):**
 - Assumption: HCO₃⁻ → river → ocean (1000+ year timescale)
 - Validation: Stable isotope analysis (δ¹³C of DIC)
 - Uncertainty: ±40%
@@ -297,7 +297,7 @@ Rainfall (mm)   20%      35%      45%      60%
 | Alkalinity export fraction | 80% | 95% | 100% |
 | **Net CO₂ removal** | **1.0 t/ha/yr** | **1.7 t/ha/yr** | **2.4 t/ha/yr** |
 
-✅ **Our estimates are MIDDLE GROUND, not optimized upward.**
+ **Our estimates are MIDDLE GROUND, not optimized upward.**
 
 ---
 
@@ -436,23 +436,23 @@ Rainfall (mm)   20%      35%      45%      60%
 
 ## 7. FEASIBILITY CONCLUSION
 
-### RECOMMENDATION: ✅ **STRONGLY PROCEED WITH PILOT PROJECT**
+### RECOMMENDATION: **STRONGLY PROCEED WITH PILOT PROJECT**
 
 **Evidence Summary:**
 
-✅ **Scientific Foundation:** Weathering rates justified, CO₂ accounting transparent, risks manageable
+ **Scientific Foundation:** Weathering rates justified, CO₂ accounting transparent, risks manageable
 
-✅ **Economic Viability:** €220–274/ha/yr benefit (vs lime status quo)
+ **Economic Viability:** €220–274/ha/yr benefit (vs lime status quo)
 
-✅ **Site Readiness:** J. Moleiro 7 is EXCEPTIONAL (92/100 viability score)
+ **Site Readiness:** J. Moleiro 7 is EXCEPTIONAL (92/100 viability score)
 
-✅ **Farmer Interest:** Terra Verde Association ready to collaborate
+ **Farmer Interest:** Terra Verde Association ready to collaborate
 
-✅ **Resource Availability:** Multiple basalt quarries on island with good quality
+ **Resource Availability:** Multiple basalt quarries on island with good quality
 
-✅ **Publication Potential:** Rigorous methodology, peer-review ready
+ **Publication Potential:** Rigorous methodology, peer-review ready
 
-✅ **Replication Potential:** Methods transferable to other volcanic regions
+ **Replication Potential:** Methods transferable to other volcanic regions
 
 **Risk Assessment:** LOW (well-mitigated through monitoring)
 
@@ -462,27 +462,27 @@ Rainfall (mm)   20%      35%      45%      60%
 
 ### Month 1–2 (January–February 2026):
 
-1. ✅ Contact João Moleiro (Terra Verde) → confirm pilot plot commitment
-2. ✅ Identify local basalt quarries → obtain samples (5–10 locations)
-3. ✅ Submit basalt samples for XRF/ICP-MS analysis
-4. ✅ Conduct bench-scale weathering experiment
-5. ✅ Draft baseline soil survey protocol
-6. ✅ Identify certified lab for field water analysis
+1. Contact João Moleiro (Terra Verde) → confirm pilot plot commitment
+2. Identify local basalt quarries → obtain samples (5–10 locations)
+3. Submit basalt samples for XRF/ICP-MS analysis
+4. Conduct bench-scale weathering experiment
+5. Draft baseline soil survey protocol
+6. Identify certified lab for field water analysis
 
 ### Month 3–4 (March–April 2026):
 
-7. ✅ Install monitoring wells (2 per treatment, 1.5–2 m depth)
-8. ✅ Establish baseline soil sampling (0–10, 10–30, 30–60 cm)
-9. ✅ Apply basalt to J. Moleiro 7 pilot plot
-10. ✅ Establish vacuum lysimeters for soil solution
-11. ✅ Begin monthly groundwater sampling
+7. Install monitoring wells (2 per treatment, 1.5–2 m depth)
+8. Establish baseline soil sampling (0–10, 10–30, 30–60 cm)
+9. Apply basalt to J. Moleiro 7 pilot plot
+10. Establish vacuum lysimeters for soil solution
+11. Begin monthly groundwater sampling
 
 ### Month 5–6 (May–June 2026):
 
-12. ✅ First season pasture assessment
-13. ✅ Process samples, begin data analysis
-14. ✅ Verify pH response, cation release
-15. ✅ Bury mesh bags for weathering rate measurement
+12. First season pasture assessment
+13. Process samples, begin data analysis
+14. Verify pH response, cation release
+15. Bury mesh bags for weathering rate measurement
 
 ---
 
@@ -490,32 +490,32 @@ Rainfall (mm)   20%      35%      45%      60%
 
 ### For Journal Publication:
 
-- [x] Hypothesis clearly stated ✅
-- [x] Methods transparent & reproducible ✅
-- [x] Assumptions conservative ✅
-- [x] Uncertainty quantified ✅
-- [x] Comparison to literature provided ✅
-- [x] Limitations clearly stated ✅
-- [x] Results with confidence intervals ✅
+- [x] Hypothesis clearly stated
+- [x] Methods transparent & reproducible
+- [x] Assumptions conservative
+- [x] Uncertainty quantified
+- [x] Comparison to literature provided
+- [x] Limitations clearly stated
+- [x] Results with confidence intervals
 - [ ] Field data collection (Year 1–3, ongoing)
 - [ ] Manuscript draft (Month 18–24)
 
 ### For PhD Proposal:
 
-- [x] Research question well-defined ✅
-- [x] Hypotheses testable ✅
-- [x] Methodology rigorous ✅
-- [x] Timeline realistic (3 years) ✅
-- [x] Resource requirements identified ✅
-- [x] Expected outputs specified ✅
+- [x] Research question well-defined
+- [x] Hypotheses testable
+- [x] Methodology rigorous
+- [x] Timeline realistic (3 years)
+- [x] Resource requirements identified
+- [x] Expected outputs specified
 - [ ] Formal proposal submission (Month 3–6, 2026)
 
 ### For Carbon Removal Company:
 
-- [x] CDR pathway transparent ✅
-- [x] CO₂ accounting auditable ✅
-- [x] MRV framework defined ✅
-- [x] Economic analysis preliminary ✅
+- [x] CDR pathway transparent
+- [x] CO₂ accounting auditable
+- [x] MRV framework defined
+- [x] Economic analysis preliminary
 - [ ] Full cost analysis with local quotes (Month 3–4, 2026)
 - [ ] Carbon credit certification pathway (Month 6–12, 2026)
 - [ ] Commercialization assessment (Year 2–3)
@@ -534,7 +534,7 @@ The Enhanced Rock Weathering study for São Miguel Island is **scientifically de
 
 ...positions São Miguel as a **TOP-TIER GLOBAL ERW SITE** (top 1% for CDR potential).
 
-**Status:** ✅ **READY TO IMPLEMENT PILOT PROJECT**
+**Status:** **READY TO IMPLEMENT PILOT PROJECT**
 
 **Timeline:** Pilot outcomes expected by Q2 2028 (3-year field campaign)
 

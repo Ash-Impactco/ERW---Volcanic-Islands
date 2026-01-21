@@ -8,7 +8,7 @@
 
 ---
 
-## 🌋 SÃO MIGUEL ISLAND CONTEXT
+## SÃO MIGUEL ISLAND CONTEXT
 
 ### Geographic & Volcanic Setting
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 🎯 SÃO MIGUEL-SPECIFIC HYPOTHESIS
+## SÃO MIGUEL-SPECIFIC HYPOTHESIS
 
 ### Primary Hypothesis
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 SÃO MIGUEL BASALT DATA
+## SÃO MIGUEL BASALT DATA
 
 ### Geochemical Composition (Typical São Miguel Basalt)
 
@@ -85,7 +85,7 @@
 
 ---
 
-## 🔬 ANALYSIS WORKFLOW (São Miguel Focus)
+## ANALYSIS WORKFLOW (São Miguel Focus)
 
 ### 1. Geochemical Characterization
 
@@ -179,7 +179,7 @@ sao_miguel_climate = {
 
 ---
 
-## 📈 REQUIRED FIGURES (São Miguel-Specific)
+## REQUIRED FIGURES (São Miguel-Specific)
 
 ### Figure 1: São Miguel Geology & Sampling Sites
 
@@ -482,7 +482,7 @@ if __name__ == "__main__":
 
 ---
 
-## 🎯 MANUSCRIPT OUTLINE (São Miguel Focus)
+## MANUSCRIPT OUTLINE (São Miguel Focus)
 
 **Title:** *Enhanced Rock Weathering Potential of São Miguel Island Basalts: A Case Study for Island-Scale Carbon Dioxide Removal in the Azores*
 
@@ -496,13 +496,13 @@ São Miguel Island in the Azores offers unique advantages for Enhanced Rock Weat
 
 ### Immediate Actions
 
-1. ✅ **Install XCode tools:** `xcode-select --install`
-2. ✅ **Run São Miguel scripts:**
+1. **Install XCode tools:** `xcode-select --install`
+2. **Run São Miguel scripts:**
    ```bash
    python3 scripts/sao_miguel_geochemistry.py
    python3 scripts/sao_miguel_kinetics.py
    ```
-3. ✅ **Generate São Miguel-specific figures**
+3. **Generate São Miguel-specific figures**
 
 ### Data Collection Needs
 

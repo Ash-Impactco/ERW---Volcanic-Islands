@@ -4,7 +4,7 @@
 
 ---
 
-## 🌋 Project Overview
+## Project Overview
 
 This research assesses the potential for **Enhanced Rock Weathering (ERW)** using volcanic basalt from São Miguel Island (Azores, Portugal) as a nature-based climate solution integrated with local dairy agriculture.
 
@@ -15,24 +15,24 @@ This research assesses the potential for **Enhanced Rock Weathering (ERW)** usin
 
 ---
 
-## 🎯 Research Question
+## Research Question
 
 **Can São Miguel Island's abundant volcanic basalts support economically viable Enhanced Rock Weathering for carbon dioxide removal, integrated with the island's dairy farming economy?**
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
-### ⭐ ERW VIABILITY: EXCELLENT (85.2/100)
+### ERW VIABILITY: EXCELLENT (85.2/100)
 
 **Based on real soil analysis from 11 agricultural plots in Sanguinho area (2024)**
 
 ### Soil Conditions (Why São Miguel is Perfect for ERW)
-- **Soil pH:** 5.2-6.0 (acidic → 2-3x faster weathering) ✅
-- **Organic Matter:** 6-12% (biological weathering enhancement) ✅
-- **Magnesium Status:** ALL plots deficient (farmers need basalt!) ✅
-- **Annual Rainfall:** 1,750 mm/yr (top 10% globally) ✅
-- **Temperature:** 18°C average (optimal weathering kinetics) ✅
+- **Soil pH:** 5.2-6.0 (acidic → 2-3x faster weathering)
+- **Organic Matter:** 6-12% (biological weathering enhancement)
+- **Magnesium Status:** ALL plots deficient (farmers need basalt!)
+- **Annual Rainfall:** 1,750 mm/yr (top 10% globally)
+- **Temperature:** 18°C average (optimal weathering kinetics)
 
 ### Measured CO₂ Removal Rates
 - **Lime replacement scenario:** 1.2-2.4 tCO₂/ha/yr (conservative)
@@ -45,7 +45,7 @@ This research assesses the potential for **Enhanced Rock Weathering (ERW)** usin
 - **Basalt alternative:** €35/ha/yr (local basalt)
 - **Cost savings:** €85/ha/yr
 - **Carbon credit revenue:** €136/ha/yr (at €80/tCO₂)
-- **TOTAL BENEFIT:** €221/ha/yr vs. conventional lime ✅
+- **TOTAL BENEFIT:** €221/ha/yr vs. conventional lime
 
 ### Island-Scale Potential
 - **Suitable agricultural land:** 15,000 ha
@@ -63,18 +63,18 @@ This research assesses the potential for **Enhanced Rock Weathering (ERW)** usin
 ```
 ERW---Volcanic-Islands/
 ├── README.md                              ← This file
-├── VIABILITY_SUMMARY.md                   ← Executive summary ⭐ NEW!
-├── ERW_VIABILITY_ANALYSIS.md              ← Detailed analysis ⭐ NEW!
+├── VIABILITY_SUMMARY.md                   ← Executive summary NEW!
+├── ERW_VIABILITY_ANALYSIS.md              ← Detailed analysis NEW!
 ├── SAO_MIGUEL_RESEARCH_FRAMEWORK.md       ← Complete scientific framework
 ├── SAO_MIGUEL_PILOT_PROJECT.md            ← 3-year pilot proposal
 ├── case_studies/
 │   └── sao_miguel.py                      ← Resource assessment script
 ├── data/
-│   ├── sao_miguel_soil_analysis.md        ← Real soil data (11 plots) ⭐
-│   ├── sao_miguel_viability_results.csv   ← Quantitative results ⭐
+│   ├── sao_miguel_soil_analysis.md        ← Real soil data (11 plots)
+│   ├── sao_miguel_viability_results.csv   ← Quantitative results
 │   └── sao_miguel_project.csv             ← Project data
 ├── scripts/
-│   └── viability_analysis_simple.py       ← Viability calculator ⭐
+│   └── viability_analysis_simple.py       ← Viability calculator
 ├── research/
 │   ├── SAO_MIGUEL_QUICK_START.md          ← Quick reference guide
 │   └── literature.md                      ← Key references
@@ -85,7 +85,7 @@ ERW---Volcanic-Islands/
 
 ## 🚀 Quick Start
 
-### 1. Run ERW Viability Analysis ⭐ NEW!
+### 1. Run ERW Viability Analysis NEW!
 
 ```bash
 cd /path/to/ERW---Volcanic-Islands
@@ -108,14 +108,14 @@ python3 case_studies/sao_miguel.py
 
 ### 3. Read Analysis Documents (Priority Order)
 
-1. **`VIABILITY_SUMMARY.md`** ⭐ Executive summary (10 min read)
-2. **`ERW_VIABILITY_ANALYSIS.md`** ⭐ Detailed analysis (20 min read)
+1. **`VIABILITY_SUMMARY.md`** Executive summary (10 min read)
+2. **`ERW_VIABILITY_ANALYSIS.md`** Detailed analysis (20 min read)
 3. **`SAO_MIGUEL_RESEARCH_FRAMEWORK.md`** - Scientific framework (30 min read)
 4. **`data/sao_miguel_soil_analysis.md`** - Raw soil data (5 min read)
 
 ---
 
-## 📈 Expected Results
+## Expected Results
 
 When you run `sao_miguel.py`, you'll see:
 
@@ -124,16 +124,16 @@ When you run `sao_miguel.py`, you'll see:
 SÃO MIGUEL ISLAND (AZORES) - ERW RESOURCE & CDR ASSESSMENT
 ================================================================================
 
-🪨 BASALT RESOURCE ASSESSMENT
+ BASALT RESOURCE ASSESSMENT
   Accessible Resource: 3,743 Mt
   Total CDR Potential: 1,123 MtCO₂
 
-📅 ANNUAL SCENARIOS
+ ANNUAL SCENARIOS
   CONSERVATIVE: 50,000 t/yr → 15,000 tCO₂/yr (2.1% of island emissions)
   MODERATE:     75,000 t/yr → 22,500 tCO₂/yr (3.2% of island emissions)
   AGGRESSIVE:   100,000 t/yr → 30,000 tCO₂/yr (4.3% of island emissions)
 
-🌾 AGRICULTURAL INTEGRATION
+ AGRICULTURAL INTEGRATION
   Suitable pasture: 200 km² (20,000 ha)
   Full deployment CDR: 60,000 tCO₂/year
   Co-benefits: Soil pH correction, reduced lime imports
@@ -143,7 +143,7 @@ SÃO MIGUEL ISLAND (AZORES) - ERW RESOURCE & CDR ASSESSMENT
 
 ---
 
-## 🌍 Why São Miguel?
+## Why São Miguel?
 
 São Miguel Island offers unique advantages for ERW:
 
@@ -155,7 +155,7 @@ São Miguel Island offers unique advantages for ERW:
 
 ---
 
-## 📝 Manuscript in Development
+## Manuscript in Development
 
 **Title:** *Enhanced Rock Weathering Potential of São Miguel Island (Azores): Integrating Volcanic Basalt Carbon Removal with Dairy Agriculture*
 
@@ -185,7 +185,7 @@ São Miguel Island offers unique advantages for ERW:
 
 ---
 
-## 🎯 Pilot Project Proposal
+## Pilot Project Proposal
 
 **Recommended first step:**
 
@@ -200,7 +200,7 @@ São Miguel Island offers unique advantages for ERW:
 
 ---
 
-## 🌍 Broader Impact
+## Broader Impact
 
 São Miguel serves as a **replicable model** for:
 - Other Azores islands (Terceira, Faial, Pico, etc.)
@@ -232,12 +232,12 @@ MIT License - This research framework is open source for academic and commercial
 
 ## 🔄 Project Status
 
-- ✅ **Framework complete** (January 2026)
-- ✅ **Resource assessment complete**
-- ✅ **Real soil data analyzed** (11 plots, Sanguinho area) ⭐
-- ✅ **Viability assessment complete** (85.2/100 - EXCELLENT) ⭐
-- ✅ **Quantitative analysis complete** (CO₂ rates, economics) ⭐
-- ✅ **Pilot project proposal ready** (€38k, 3 years)
+- **Framework complete** (January 2026)
+- **Resource assessment complete**
+- **Real soil data analyzed** (11 plots, Sanguinho area)
+- **Viability assessment complete** (85.2/100 - EXCELLENT)
+- **Quantitative analysis complete** (CO₂ rates, economics)
+- **Pilot project proposal ready** (€38k, 3 years)
 - 🔄 **Literature review ongoing**
 - ⏳ **Basalt sampling planned** (Next 2 weeks)
 - ⏳ **Farmer contact** (João Moleiro, Sanguinho)
@@ -245,7 +245,7 @@ MIT License - This research framework is open source for academic and commercial
 
 ---
 
-**Focus:** 100% São Miguel Island, Azores 🌋  
+**Focus:** 100% São Miguel Island, Azores  
 **Goal:** Demonstrate viable island-scale ERW for climate action
 
 *Last updated: January 21, 2026*

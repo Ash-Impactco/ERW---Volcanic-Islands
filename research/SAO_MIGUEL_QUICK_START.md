@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 RESEARCH QUESTION
+## RESEARCH QUESTION
 
 **Can São Miguel Island's volcanic basalts support economically viable Enhanced Rock Weathering for carbon dioxide removal, integrated with local dairy agriculture?**
 
 ---
 
-## 🌋 SÃO MIGUEL AT A GLANCE
+## SÃO MIGUEL AT A GLANCE
 
 | Parameter | Value | Notes |
 |-----------|-------|-------|
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 CORE HYPOTHESIS
+## CORE HYPOTHESIS
 
 **São Miguel's young, olivine-rich basalts (MgO 7-9%, CaO 9-11%) weathering under optimal oceanic climate can sequester 0.30-0.35 tCO₂/tonne basalt over 10 years, providing:**
 1. Island-scale CDR: 15,000-30,000 tCO₂/year
@@ -35,7 +35,7 @@
 
 ---
 
-## 🔬 REQUIRED ANALYSES
+## REQUIRED ANALYSES
 
 ### Analysis 1: São Miguel Basalt Geochemistry ⏱️ 2 minutes
 
@@ -97,7 +97,7 @@ python3 case_studies/sao_miguel.py
 
 ---
 
-## 📈 KEY RESULTS TO REPORT
+## KEY RESULTS TO REPORT
 
 ### São Miguel Basalt Properties
 
@@ -137,15 +137,15 @@ python3 case_studies/sao_miguel.py
 SÃO MIGUEL ISLAND (AZORES) - ERW RESOURCE & CDR ASSESSMENT
 ===============================================================
 
-📍 LOCATION
+ LOCATION
   Island: São Miguel, Azores
   Area: 744 km²
 
-🪨 BASALT RESOURCE ASSESSMENT
+ BASALT RESOURCE ASSESSMENT
   Accessible Resource: 3,750 Mt
   Total CDR Potential: 1,125 MtCO₂
 
-📅 ANNUAL SCENARIOS
+ ANNUAL SCENARIOS
   CONSERVATIVE: 50,000 t/yr → 15,000 tCO₂/yr
   MODERATE: 75,000 t/yr → 22,500 tCO₂/yr
 
@@ -177,7 +177,7 @@ SM003,Furnas,37.77,-25.32,49.1,6.9,9.5,11.5,16.5,9.1
 
 ---
 
-## 📝 MANUSCRIPT OUTLINE (São Miguel Focus)
+## MANUSCRIPT OUTLINE (São Miguel Focus)
 
 **Title:** *Enhanced Rock Weathering Potential of São Miguel Island (Azores): Integrating Volcanic Basalt Carbon Removal with Dairy Agriculture*
 
@@ -225,7 +225,7 @@ SM003,Furnas,37.77,-25.32,49.1,6.9,9.5,11.5,16.5,9.1
 
 ---
 
-## 📍 FIGURES REQUIRED
+## FIGURES REQUIRED
 
 ### Figure 1: São Miguel Island Map
 - Volcanic complexes (Sete Cidades, Fogo, Furnas)
@@ -251,7 +251,7 @@ SM003,Furnas,37.77,-25.32,49.1,6.9,9.5,11.5,16.5,9.1
 
 ---
 
-## ⚠️ CRITICAL ASSUMPTIONS
+## CRITICAL ASSUMPTIONS
 
 ### Defend These
 
@@ -291,7 +291,7 @@ SM003,Furnas,37.77,-25.32,49.1,6.9,9.5,11.5,16.5,9.1
 
 ---
 
-## 🎯 SUCCESS CRITERIA
+## SUCCESS CRITERIA
 
 Your São Miguel ERW study will be publication-ready when:
 
@@ -320,7 +320,7 @@ python3 case_studies/sao_miguel.py
 
 ---
 
-**You now have a laser-focused São Miguel ERW research framework with no unnecessary data!** 🌋
+**You now have a laser-focused São Miguel ERW research framework with no unnecessary data!**
 
 ---
 

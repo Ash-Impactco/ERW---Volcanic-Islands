@@ -7,13 +7,13 @@
 
 ---
 
-## 🎯 **PROJECT OBJECTIVE**
+## **PROJECT OBJECTIVE**
 
 Demonstrate that **volcanic basalt can replace imported magnesian lime** in São Miguel dairy pastures while sequestering atmospheric CO₂, reducing costs, and improving soil health.
 
 ---
 
-## 📍 **SITE DESCRIPTION**
+## **SITE DESCRIPTION**
 
 ### **Location:**
 - **Farm:** Sanguinho - João Moleiro
@@ -44,7 +44,7 @@ Demonstrate that **volcanic basalt can replace imported magnesian lime** in São
 
 ---
 
-## 🔬 **EXPERIMENTAL DESIGN**
+## **EXPERIMENTAL DESIGN**
 
 ### **Treatment Structure (Randomized Block Design)**
 
@@ -61,7 +61,7 @@ Demonstrate that **volcanic basalt can replace imported magnesian lime** in São
 
 ---
 
-## 📊 **MONITORING PLAN**
+## **MONITORING PLAN**
 
 ### **1. Soil Chemistry (Primary)**
 
@@ -122,7 +122,7 @@ Demonstrate that **volcanic basalt can replace imported magnesian lime** in São
 
 ---
 
-## 💰 **BUDGET (3 years)**
+## **BUDGET (3 years)**
 
 | Item | Year 1 | Year 2 | Year 3 | Total |
 |------|--------|--------|--------|-------|
@@ -146,7 +146,7 @@ Demonstrate that **volcanic basalt can replace imported magnesian lime** in São
 
 ---
 
-## 📈 **EXPECTED OUTCOMES**
+## **EXPECTED OUTCOMES**
 
 ### **Primary Outcomes:**
 
@@ -188,15 +188,15 @@ Demonstrate that **volcanic basalt can replace imported magnesian lime** in São
 
 ---
 
-## 🎯 **SUCCESS CRITERIA**
+## **SUCCESS CRITERIA**
 
 **Pilot considered successful if:**
 
-1. ✅ **Basalt Low (5 t/ha) performs equally to lime** for pH correction
-2. ✅ **No negative effects** on pasture yield or soil health
-3. ✅ **Measurable CO₂ removal** via groundwater alkalinity increase
-4. ✅ **Economic breakeven or better** vs. imported lime
-5. ✅ **Farmer satisfaction** and willingness to continue
+1. **Basalt Low (5 t/ha) performs equally to lime** for pH correction
+2. **No negative effects** on pasture yield or soil health
+3. **Measurable CO₂ removal** via groundwater alkalinity increase
+4. **Economic breakeven or better** vs. imported lime
+5. **Farmer satisfaction** and willingness to continue
 
 **Scale-up recommended if:**
 - Success criteria met
@@ -206,7 +206,7 @@ Demonstrate that **volcanic basalt can replace imported magnesian lime** in São
 
 ---
 
-## 📝 **TIMELINE**
+## **TIMELINE**
 
 ### **Pre-Project (Jan-Jun 2025)**
 - ☐ Secure funding
@@ -254,7 +254,7 @@ Demonstrate that **volcanic basalt can replace imported magnesian lime** in São
 
 ---
 
-## 📊 **DELIVERABLES**
+## **DELIVERABLES**
 
 ### **Scientific:**
 1. **Annual progress reports** (3)
@@ -270,7 +270,7 @@ Demonstrate that **volcanic basalt can replace imported magnesian lime** in São
 
 ---
 
-## 🌍 **BROADER IMPACT**
+## **BROADER IMPACT**
 
 ### **São Miguel Scale-Up:**
 - **If successful:** 200+ farms × 20 ha average = **4,000 ha potential**
@@ -314,7 +314,7 @@ Demonstrate that **volcanic basalt can replace imported magnesian lime** in São
 
 ---
 
-## ✅ **RISK MITIGATION**
+## **RISK MITIGATION**
 
 | Risk | Probability | Mitigation |
 |------|-------------|------------|
@@ -326,6 +326,6 @@ Demonstrate that **volcanic basalt can replace imported magnesian lime** in São
 
 ---
 
-**This pilot project positions São Miguel as a leader in agricultural carbon removal and sustainable farming innovation!** 🌋🌾
+**This pilot project positions São Miguel as a leader in agricultural carbon removal and sustainable farming innovation!**
 
 **Ready to proceed?** Next step: Contact João Moleiro through Terra Verde Association.

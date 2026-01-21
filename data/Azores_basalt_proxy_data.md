@@ -92,23 +92,23 @@
 ## Key Observations for ERW
 
 ### Olivine-Bearing Basalt (Best for ERW)
-- ✅ High MgO (8.38%) + CaO (9.45%) = 17.83% reactive silicate
-- ✅ WPI = 0.377 (Excellent)
-- ✅ Low porosity (5%) = dense, durable
-- ✅ High strength (241 MPa compression)
-- ✅ Low water absorption (1%)
+- High MgO (8.38%) + CaO (9.45%) = 17.83% reactive silicate
+- WPI = 0.377 (Excellent)
+- Low porosity (5%) = dense, durable
+- High strength (241 MPa compression)
+- Low water absorption (1%)
 
 ### Brita 2 Stone Powder (Good for ERW)
-- ✅ MgO (6.92%) + CaO (10.05%) = 16.97% reactive silicate
-- ✅ WPI = 0.358 (Excellent)
-- ✅ Fine grain size (0-4mm) = high reactive surface area
-- ✅ Already processed and available
+- MgO (6.92%) + CaO (10.05%) = 16.97% reactive silicate
+- WPI = 0.358 (Excellent)
+- Fine grain size (0-4mm) = high reactive surface area
+- Already processed and available
 
 ### Polished Basalt (Moderate for ERW)
-- ⚠️ Lower MgO (2.70%) + CaO (5.34%) = 8.04% reactive silicate
-- ⚠️ WPI = 0.160 (Moderate)
-- ✅ High porosity (20.34%) = high surface area
-- ⚠️ Lower strength (44.2 MPa)
+- Lower MgO (2.70%) + CaO (5.34%) = 8.04% reactive silicate
+- WPI = 0.160 (Moderate)
+- High porosity (20.34%) = high surface area
+- Lower strength (44.2 MPa)
 
 ---
 
@@ -128,19 +128,19 @@
 
 ## Can Madeira Data Serve as São Miguel Proxy?
 
-### ✅ Similarities (Justification for Proxy Use)
+### Similarities (Justification for Proxy Use)
 1. Both Atlantic Ocean volcanic islands
 2. Similar basaltic composition (ocean island basalts)
 3. Comparable mineralogy (olivine, pyroxene, plagioclase)
 4. Similar climate (oceanic subtropical, high rainfall)
 
-### ⚠️ Differences (Limitations to Note)
+### Differences (Limitations to Note)
 1. **Age:** São Miguel basalts younger (may be more reactive)
 2. **Tectonic setting:** Slightly different (Azores triple junction vs. hotspot)
 3. **Alkalinity:** São Miguel may be slightly more alkali-rich
 4. **Exact composition:** Will vary by volcanic system
 
-### 📝 Recommendation for Manuscript
+### Recommendation for Manuscript
 
 If using Madeira data as proxy:
 
